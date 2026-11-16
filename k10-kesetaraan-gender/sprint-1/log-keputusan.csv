@@ -1,0 +1,16 @@
+id,tanggal,nim,tahap,seri_kode,keputusan,alternatif_ditolak,alasan,dampak_baris
+K-001,2026-11-08,kunci,sprint0,semua,"wilayah_kode = kode BPS dua digit x 100, Indonesia 9999 (ILOSTAT REF_AREA IDN), susunan 38 provinsi 2025; batas_lama hanya sebelum provinsi baru pertama kali terbit","memecah angka induk","tidak ada dasar membagi angka lama ke wilayah baru",64
+K-002,2026-11-11,kunci,ekstraksi,semua,"pembaca ILOSTAT membaca CSV SDMX apa adanya; seri_kode = DATAFLOW tanpa 'ILO:DF_' dan versi; DSD dan dataflow.json dibaca untuk nama dan definisi","membaca hanya kolom nilai","atribut (OBS_STATUS, NOTE_INDICATOR, SOURCE) adalah bukti metode",1720
+K-003,2026-11-12,kunci,ekstraksi,"SDG_0552_NOC_RT,SDG_T552_NOC_RT","dua definisi ILO dibedakan dari deskripsi DSD: 0552 senior dan menengah, T552 seluruh manajemen; tetap dua seri","menganggap keduanya duplikat","kode SDG sama, definisi berbeda",0
+K-004,2026-11-16,kunci,pembersihan,"var1360,var2003","calon anomali: IQR x 1,5 ke bawah, pada perubahan, dan ke samping (>= 6 periode)","z-score > 3","panel 11 tahun",49
+K-005,2026-11-12,kunci,silver,"SDG_0552_NOC_RT,SDG_T552_NOC_RT","OBS_STATUS disimpan di kolom tambahan status_obs; B dipakai sebagai penanda patahan","membuang kolom status; membuang baris B","NOTE_INDICATOR baris B: 'Break in series: Methodology revised'; arti kode lain tidak ada di DSD paket",4
+K-006,2026-11-18,kunci,transformasi,semua,"seri ILO kasus ini tanpa dimensi rincian (NOC): rincian total","—","kolom dimensi tidak ada",0
+K-007,2026-11-14,kunci,transformasi,var2003,"satuan tidak_ada -> persen","membiarkan tidak_ada","judul 'Proporsi'; nilai 10–50; ILO UNIT_MEASURE PT",391
+K-008,2026-11-14,kunci,transformasi,"SG.GEN.PARL.ZS,SP.M18.2024.FE.ZS","kode SDG WDI kosong diisi 5.5.1 dan 5.3.1","membiarkan kosong","tercantum di metadata/sumber46_indikator.json",2
+K-009,2026-11-18,kunci,silver,"SG.GEN.PARL.ZS,SP.M18.2024.FE.ZS","baris WDI dengan value null tidak masuk Silver","menyimpan NaN","null berarti tidak ada estimasi",96
+K-010,2026-11-19,kunci,pembersihan,semua,"perubahan provinsi induk saat provinsi pemekaran mulai terbit ditandai patahan_wilayah","menandainya outlier","wilayah induk mengecil",4
+K-011,2026-11-20,kunci,integrasi,"var2003,SDG_T552_NOC_RT","P1 memakai T552 (seluruh manajemen) sebagai pembanding utama; P2 0552 selisih definisi","memakai 0552","var.note BPS: seluruh lapangan usaha; nilai BPS dekat T552",8
+K-012,2026-11-17,kunci,pembersihan,SDG_T552_NOC_RT,"T552 2016 (44,78) disimpan, dilaporkan sebagai peringatan, tidak dipakai di rekonsiliasi","memperbaiki; membuang","dua kali lipat tahun di sekitarnya dan BPS; tanpa status B",1
+K-013,2026-11-17,kunci,pembersihan,var2003,"Papua Tengah dan Papua Pegunungan 2025 missing; tidak diisi","mengisi dari 2024","provinsi ada dan penerbit tidak menyatakan angka itu tidak ada",2
+K-014,2026-11-20,kunci,integrasi,"var1360,SP.M18.2024.FE.ZS","P3 perkawinan anak: batas umur sama (20–24, sebelum 18); hanya 2017 beririsan","memasangkan tahun berbeda","var.note dan name WDI",1
+K-015,2026-11-21,kunci,integrasi,semua,"Silver dimuat ke DuckDB (data/gold/gudang.duckdb) dengan kunci primer, CHECK batas, dan foreign key ke tabel seri","SQLite; PostgreSQL","satu berkas tanpa server; SQLite juga sah",840

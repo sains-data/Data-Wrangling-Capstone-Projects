@@ -1,0 +1,16 @@
+id,tanggal,nim,tahap,seri_kode,keputusan,alternatif_ditolak,alasan,dampak_baris
+K-001,2026-11-08,kunci,sprint0,semua,"wilayah_kode = kode BPS dua digit x 100, Indonesia 9999 (ILOSTAT REF_AREA IDN), susunan 38 provinsi 2025; batas_lama hanya sebelum provinsi baru pertama kali terbit","memecah angka induk","tidak ada dasar membagi angka lama ke wilayah baru",44
+K-002,2026-11-11,kunci,ekstraksi,semua,"pembaca ILOSTAT yang sama untuk berkas panjang dan berkas 3 baris (B871); DSD untuk definisi A871/B871","kasus khusus untuk berkas pendek","pembaca yang umum lebih tahan untuk paket lain",1426
+K-003,2026-11-12,kunci,ekstraksi,"var2658,SDG_A871_SEX_AGE_RT,SDG_B871_SEX_AGE_RT,SL.TLF.0714.ZS","kelompok umur dicatat per seri: BPS 5–17, ILO 15–17, WDI 7–14","menganggap semua 5–17","judul BPS; kolom AGE ILO; name WDI",0
+K-004,2026-11-16,kunci,pembersihan,"var1186,var2658","calon anomali: IQR x 1,5 ke bawah, pada perubahan, dan ke samping (>= 6 periode)","z-score > 3","panel 6–11 tahun",72
+K-005,2026-11-12,kunci,silver,SDG_0861_SEX_RT,"status_obs B disimpan sebagai penanda patahan","membuang baris B","NOTE_INDICATOR 'Break in series'",9
+K-006,2026-11-18,kunci,transformasi,"SDG_A871_SEX_AGE_RT,SDG_B871_SEX_AGE_RT","dua definisi ILO tetap dua seri; aturan B871 >= A871","menggabungkan; membuang B871","definisi berbeda untuk 5–14; sama untuk 15–17",0
+K-007,2026-11-14,kunci,transformasi,"SL.UEM.NEET.ZS,SL.TLF.0714.ZS","kode SDG WDI kosong diisi 8.6.1 dan 8.7.1","membiarkan kosong","tercantum di metadata/sumber46_indikator.json",2
+K-008,2026-11-18,kunci,silver,"SL.UEM.NEET.ZS,SL.TLF.0714.ZS","baris WDI dengan value null tidak masuk Silver","menyimpan NaN","null berarti tidak ada estimasi",101
+K-009,2026-11-19,kunci,pembersihan,semua,"perubahan provinsi induk saat provinsi pemekaran mulai terbit ditandai patahan_wilayah","menandainya outlier","wilayah induk mengecil",4
+K-010,2026-11-18,kunci,transformasi,var2658,"judul menyebut persentase dan jumlah; berkas hanya persentase (var.unit Persen)","mencari kolom jumlah","datacontent hanya satu ukuran",0
+K-011,2026-11-17,kunci,pembersihan,SL.TLF.0714.ZS,"tidak ada tahun beririsan dengan BPS dicatat sebagai seri tidak tumpang tindih, bukan missing","menghitung missing","WDI 2000–2010, BPS 2020–2025",0
+K-012,2026-11-20,kunci,integrasi,"var1186,SDG_0861_SEX_RT,SL.UEM.NEET.ZS","P1 NEET: kelompok umur sama; selisih metode; peringatan 2020","menganggap selisih galat","judul BPS, nama DSD, sourceNote WDI 15–24",9
+K-013,2026-11-17,kunci,pembersihan,var2658,"provinsi yang hilang 2024–2025 (DKI, DIY, Kepri, Papua Barat Daya) missing; tidak diisi","interpolasi","tidak ada catatan penerbit",6
+K-014,2026-11-20,kunci,integrasi,"var2658,SDG_A871_SEX_AGE_RT","P2 selisih definisi kelompok umur; hanya 2023 beririsan","membandingkan langsung","BPS 5–17, ILO 15–17",1
+K-015,2026-11-21,kunci,integrasi,semua,"Silver dimuat ke DuckDB (data/gold/gudang.duckdb) dengan kunci primer, CHECK batas, dan foreign key ke tabel seri","SQLite; PostgreSQL","satu berkas tanpa server; SQLite juga sah",720

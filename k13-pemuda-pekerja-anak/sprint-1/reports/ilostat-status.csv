@@ -1,0 +1,6 @@
+seri_kode,OBS_STATUS,NOTE_INDICATOR,SOURCE,baris,periode_awal,periode_akhir
+SDG_0861_SEX_RT,(kosong),,LFS - National Labour Force Survey,63,2000,2023
+SDG_0861_SEX_RT,B,Break in series: Methodology revised,LFS - National Labour Force Survey,9,2008,2021
+SDG_A871_SEX_AGE_RT,(kosong),,CLS - Child Labour Survey,3,2009,2009
+SDG_A871_SEX_AGE_RT,(kosong),,LFS - National Labour Force Survey,6,2019,2023
+SDG_B871_SEX_AGE_RT,(kosong),,CLS - Child Labour Survey,3,2009,2009

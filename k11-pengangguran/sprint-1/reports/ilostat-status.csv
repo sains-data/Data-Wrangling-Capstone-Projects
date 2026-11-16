@@ -1,0 +1,24 @@
+seri_kode,OBS_STATUS,NOTE_INDICATOR,SOURCE,baris,periode_awal,periode_akhir
+SDG_0852_SEX_AGE_RT,(kosong),,LFS - National Labour Force Survey,189,2000,2023
+SDG_0852_SEX_AGE_RT,B,Break in series: Methodology revised,LFS - National Labour Force Survey,27,2008,2021
+SDG_0852_SEX_DSB_RT,(kosong),,LFS - National Labour Force Survey,53,2016,2023
+SDG_0852_SEX_DSB_RT,(kosong),,PC - Population Census,9,2010,2010
+SDG_0852_SEX_DSB_RT,B,Break in series: Methodology revised,LFS - National Labour Force Survey,8,2021,2021
+SDG_0852_SEX_DSB_RT,U,,LFS - National Labour Force Survey,8,2016,2023
+UNE_DEAP_SEX_AGE_RT,(kosong),,LFS - National Labour Force Survey,740,1977,2023
+UNE_DEAP_SEX_AGE_RT,(kosong),,PC - Population Census,6,1976,1985
+UNE_DEAP_SEX_AGE_RT,(kosong),Frequency: Twice a year: February and August,LFS - National Labour Force Survey,1417,2014-Q1,2023-Q3
+UNE_DEAP_SEX_AGE_RT,(kosong),Unemployment definition: Two criteria (not in employment and seeking),LFS - National Labour Force Survey,1485,1991,2012
+UNE_DEAP_SEX_AGE_RT,(kosong),Unemployment definition: Two criteria (not in employment and seeking) | Frequency: Twice a year: February and August,LFS - National Labour Force Survey,751,2008-Q3,2013-Q1
+UNE_DEAP_SEX_AGE_RT,B,Break in series: Methodology revised,LFS - National Labour Force Survey,81,2021,2021
+UNE_DEAP_SEX_AGE_RT,B,Frequency: Twice a year: February and August | Break in series: Methodology revised,LFS - National Labour Force Survey,80,2021-Q3,2021-Q3
+UNE_DEAP_SEX_AGE_RT,B,Unemployment definition: Two criteria (not in employment and seeking) | Break in series: Methodology revised,LFS - National Labour Force Survey,225,1990,2013
+UNE_DEAP_SEX_AGE_RT,B,Unemployment definition: Two criteria (not in employment and seeking) | Frequency: Twice a year: February and August | Break in series: Methodology revised,LFS - National Labour Force Survey,148,2008-Q1,2013-Q3
+UNE_DEAP_SEX_AGE_RT,U,,LFS - National Labour Force Survey,22,2015,2022
+UNE_DEAP_SEX_AGE_RT,U,Break in series: Methodology revised,LFS - National Labour Force Survey,3,2021,2021
+UNE_DEAP_SEX_AGE_RT,U,Frequency: Twice a year: February and August,LFS - National Labour Force Survey,103,2014-Q1,2023-Q3
+UNE_DEAP_SEX_AGE_RT,U,Frequency: Twice a year: February and August | Break in series: Methodology revised,LFS - National Labour Force Survey,4,2021-Q3,2021-Q3
+UNE_DEAP_SEX_AGE_RT,U,Unemployment definition: Two criteria (not in employment and seeking),LFS - National Labour Force Survey,98,1991,2009
+UNE_DEAP_SEX_AGE_RT,U,Unemployment definition: Two criteria (not in employment and seeking) | Break in series: Methodology revised,LFS - National Labour Force Survey,6,1990,1990
+UNE_DEAP_SEX_AGE_RT,U,Unemployment definition: Two criteria (not in employment and seeking) | Frequency: Twice a year: February and August,LFS - National Labour Force Survey,24,2008-Q3,2013-Q1
+UNE_DEAP_SEX_AGE_RT,U,Unemployment definition: Two criteria (not in employment and seeking) | Frequency: Twice a year: February and August | Break in series: Methodology revised,LFS - National Labour Force Survey,8,2008-Q1,2013-Q3

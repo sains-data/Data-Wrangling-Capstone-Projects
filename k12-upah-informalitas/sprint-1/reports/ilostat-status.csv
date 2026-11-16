@@ -1,0 +1,4 @@
+seri_kode,OBS_STATUS,NOTE_INDICATOR,SOURCE,baris,periode_awal,periode_akhir
+SDG_0831_SEX_ECO_RT,(kosong),,LFS - National Labour Force Survey,216,2016,2023
+SDG_0851_SEX_OCU_NB,(kosong),IDR: Indonesian rupiah,LFS - National Labour Force Survey,543,2007,2023
+SDG_0851_SEX_OCU_NB,B,Break in series: Methodology revised | IDR: Indonesian rupiah,LFS - National Labour Force Survey,144,2008,2021

@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+*.duckdb
+data/raw/
+PANDUAN-BIMBINGAN.md
+alat/

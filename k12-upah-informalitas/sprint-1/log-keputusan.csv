@@ -1,0 +1,15 @@
+id,tanggal,nim,tahap,seri_kode,keputusan,alternatif_ditolak,alasan,dampak_baris
+K-001,2026-11-08,kunci,sprint0,semua,"wilayah_kode = kode BPS dua digit x 100, Indonesia 9999 (ILOSTAT REF_AREA IDN), susunan 38 provinsi 2025; batas_lama hanya sebelum provinsi baru pertama kali terbit","memecah angka induk","tidak ada dasar membagi angka lama ke wilayah baru",52
+K-002,2026-11-11,kunci,ekstraksi,semua,"JSON BPS dan CSV SDMX ILOSTAT dibaca utuh; DSD untuk definisi dan klasifikasi","membaca hanya baris total","rincian jabatan dan sektor dipakai di Sprint 2",2265
+K-003,2026-11-12,kunci,silver,"SDG_0851_SEX_OCU_NB","status_obs B (disertai 'Break in series') disimpan","membuang baris B","penanda patahan",144
+K-004,2026-11-16,kunci,pembersihan,"var1172,var2153","calon anomali: IQR x 1,5 ke bawah, pada perubahan, dan ke samping (>= 6 periode); provinsi berulang di luar batas = perbedaan struktural","menghapus atau winsorize upah ekstrem","distribusi upah menceng; provinsi ekstrem adalah fakta",83
+K-005,2026-11-18,kunci,transformasi,semua,"rincian ILO: jenis_kelamin=MALE/FEMALE, jabatan=<klasifikasi>_<kode>, sektor=<klasifikasi>_<kode>","kode ILO apa adanya","kamus_ilo.py; klasifikasi ikut ditulis",117
+K-006,2026-11-18,kunci,transformasi,"SDG_0851_SEX_OCU_NB,SDG_0831_SEX_ECO_RT","total utama OCU_SKILL_TOTAL dan ECO_SECTOR_TOTAL; total klasifikasi lain tetap rincian dan diuji sama","menganggap semua *_TOTAL total (kunci kembar)","beberapa klasifikasi dalam satu berkas",0
+K-007,2026-11-14,kunci,transformasi,"var1172,SDG_0851_SEX_OCU_NB","upah BPS dan ILO bersatuan rupiah_per_jam nominal; tidak disesuaikan inflasi di Silver","menghitung upah riil tanpa indeks harga","var.unit Rupiah/Jam; UNIT_MEASURE LC dan NOTE_INDICATOR IDR",0
+K-008,2026-11-14,kunci,transformasi,var2153,"satuan tidak_ada -> persen","membiarkan tidak_ada","judul 'Proporsi'; besaran",288
+K-009,2026-11-19,kunci,pembersihan,semua,"perubahan provinsi induk saat provinsi pemekaran mulai terbit ditandai patahan_wilayah","menandainya outlier","wilayah induk mengecil",4
+K-010,2026-11-17,kunci,pembersihan,var2153,"seri informal mulai 2018; tahun sebelumnya tidak masuk grid","menghitung missing","seri belum terbit",0
+K-011,2026-11-20,kunci,integrasi,"var1172,SDG_0851_SEX_OCU_NB","P1 upah BPS vs ILO total; selisih metode","membandingkan dengan rincian jabatan","total jenis kelamin dan keahlian setara keseluruhan pekerja",8
+K-012,2026-11-17,kunci,pembersihan,var1172,"2015–2019 angka revisi penimbang dicatat di cakupan, bukan patahan","menandai patahan","var.note: revisi membuat angka sebanding",0
+K-013,2026-11-21,kunci,integrasi,semua,"Silver dimuat ke DuckDB (data/gold/gudang.duckdb) dengan kunci primer, CHECK batas, dan foreign key ke tabel seri","SQLite; PostgreSQL","satu berkas tanpa server; SQLite juga sah",1584
+K-014,2026-11-20,kunci,integrasi,"var2153,SDG_0831_SEX_ECO_RT","P2 informalitas selisih definisi (ILO ±80%, BPS ±58%), bukan galat","menganggap salah satu galat","kriteria informal berbeda; keduanya semua sektor",4

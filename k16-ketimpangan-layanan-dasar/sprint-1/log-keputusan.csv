@@ -1,0 +1,16 @@
+id,tanggal,nim,tahap,seri_kode,keputusan,alternatif_ditolak,alasan,dampak_baris
+K-001,2026-11-08,kunci,sprint0,semua,"wilayah_kode = kode BPS dua digit x 100, Indonesia 9999 (ILOSTAT REF_AREA IDN), susunan 38 provinsi 2025; batas_lama hanya sebelum provinsi baru pertama kali terbit","memecah angka induk","tidak ada dasar membagi angka lama ke wilayah baru",76
+K-002,2026-11-11,kunci,ekstraksi,semua,"JSON BPS dan CSV SDMX ILOSTAT dibaca utuh; dataflow.json untuk definisi (garis kemiskinan, estimasi model)","membaca hanya nilai","deskripsi dataflow menjelaskan populasi dan garis kemiskinan",2003
+K-003,2026-11-16,kunci,pembersihan,semua,"calon anomali: IQR x 1,5 ke bawah, pada perubahan, dan ke samping (>= 6 periode); provinsi berulang di luar batas = perbedaan struktural","z-score > 3","panel pendek (2–6 tahun)",58
+K-004,2026-11-14,kunci,transformasi,"var2011,var1254","satuan tidak_ada -> persen","membiarkan tidak_ada","judul 'Proporsi'",275
+K-005,2026-11-17,kunci,pembersihan,var2011,"sel kosong provinsi yang sudah ada dikategorikan tidak_diterbitkan","missing","var.note: provinsi dengan RSE terlalu tinggi tidak ditampilkan",9
+K-006,2026-11-18,kunci,transformasi,var2016,"turvar menjadi rincian layanan=air_minum/sanitasi/kesehatan; label mobilitas tanpa angka dicatat sebagai temuan","mengisi mobilitas; membuat total","turvar menyebut mobilitas, datacontent tidak memuatnya",22
+K-007,2026-11-12,kunci,silver,"SDG_0111_SEX_AGE_RT,SDG_1041_NOC_RT","status_obs A, R, M disimpan apa adanya; arti kode dicatat sebagai pertanyaan","menebak arti kode","DSD hanya merujuk codelist CL_OBS_STATUS",0
+K-008,2026-11-14,kunci,transformasi,"SI.DST.50MD,SI.POV.DDAY","kode SDG WDI kosong diisi 10.2.1 dan 1.1.1","membiarkan kosong","tercantum di metadata/sumber46_indikator.json",2
+K-009,2026-11-18,kunci,silver,"SI.DST.50MD,SI.POV.DDAY","baris WDI dengan value null tidak masuk Silver","menyimpan NaN","null berarti tidak ada estimasi",66
+K-010,2026-11-15,kunci,transformasi,SDG_1041_NOC_RT,"2026 proyeksi (PROYEKSI); tidak ikut rekonsiliasi","menganggapnya estimasi","estimasi model sesudah tahun berjalan",1
+K-011,2026-11-19,kunci,pembersihan,semua,"perubahan provinsi induk saat provinsi pemekaran mulai terbit ditandai patahan_wilayah","menandainya outlier","wilayah induk mengecil",0
+K-012,2026-11-17,kunci,pembersihan,var1254,"pendapatan pemerintah 2015–2016 tidak diimputasi ke tahun lain","interpolasi atau ekstrapolasi","dua titik tidak cukup; Silver hanya observasi; imputasi (bila perlu) di Gold dengan penanda",0
+K-013,2026-11-18,kunci,transformasi,var1254,"judul menyebut 'menurut sumbernya' tetapi berkas tanpa rincian sumber; disimpan sebagai total","mencari rincian sumber","turvar 'Tidak ada'",0
+K-014,2026-11-20,kunci,integrasi,"var2011,SI.DST.50MD,SDG_0111_SEX_AGE_RT,SI.POV.DDAY","P1 selisih definisi pendapatan/konsumsi; P2 populasi berbeda dengan garis sama","menyamakan pekerja dengan penduduk","judul BPS; sourceNote WDI; deskripsi dataflow ILO",6
+K-015,2026-11-21,kunci,integrasi,semua,"Silver dimuat ke DuckDB (data/gold/gudang.duckdb) dengan kunci primer, CHECK batas, dan foreign key ke tabel seri","SQLite; PostgreSQL","satu berkas tanpa server; SQLite juga sah",1137

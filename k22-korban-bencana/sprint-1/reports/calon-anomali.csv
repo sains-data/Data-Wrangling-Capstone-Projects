@@ -1,0 +1,120 @@
+seri_kode,wilayah_kode,nama_wilayah,periode,nilai,arah,alasan,berulang
+kejadian [jumlah],1900,Kepulauan Bangka Belitung,2010,0.0,ke samping,"di luar [0.74, 289.88] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],2100,Kepulauan Riau,2011,4.0,perubahan,"perubahan 2010→2011 x5.00 di luar [x0.28, x3.49] (pada 1+x)",False
+kejadian [jumlah],3300,Jawa Tengah,2011,467.0,ke bawah,"di luar [0.32, 234.54] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],3500,Jawa Timur,2011,278.0,ke bawah,"di luar [0.32, 234.54] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],6500,Kalimantan Utara,2011,0.0,ke bawah,"di luar [0.32, 234.54] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],7400,Sulawesi Tenggara,2011,13.0,perubahan,"perubahan 2010→2011 x0.16 di luar [x0.28, x3.49] (pada 1+x)",False
+kejadian [jumlah],9500,Papua Selatan,2011,0.0,ke bawah,"di luar [0.32, 234.54] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],9700,Papua Pegunungan,2011,0.0,ke bawah,"di luar [0.32, 234.54] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],1900,Kepulauan Bangka Belitung,2012,0.0,ke samping,"di luar [0.74, 289.88] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],7400,Sulawesi Tenggara,2012,99.0,perubahan,"perubahan 2011→2012 x7.14 di luar [x0.23, x5.74] (pada 1+x)",False
+kejadian [jumlah],1900,Kepulauan Bangka Belitung,2013,15.0,perubahan,"perubahan 2012→2013 x16.00 di luar [x0.30, x4.06] (pada 1+x)",False
+kejadian [jumlah],7400,Sulawesi Tenggara,2013,29.0,perubahan,"perubahan 2012→2013 x0.30 di luar [x0.30, x4.06] (pada 1+x)",False
+kejadian [jumlah],9200,Papua Barat Daya,2013,0.0,ke bawah,"di luar [0.44, 452.29] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],6300,Kalimantan Selatan,2014,13.0,perubahan,"perubahan 2013→2014 x0.22 di luar [x0.22, x2.88] (pada 1+x)",False
+kejadian [jumlah],2100,Kepulauan Riau,2015,5.0,perubahan,"perubahan 2014→2015 x0.15 di luar [x0.18, x5.08] (pada 1+x)",False
+kejadian [jumlah],5100,Bali,2015,6.0,ke samping,"di luar [6.81, 200.60] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],3100,DKI Jakarta,2016,43.0,perubahan,"perubahan 2015→2016 x7.33 di luar [x0.34, x4.71] (pada 1+x)",False
+kejadian [jumlah],3200,Jawa Barat,2016,306.0,ke bawah,"di luar [0.88, 277.02] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],3300,Jawa Tengah,2016,600.0,ke bawah,"di luar [0.88, 277.02] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],3500,Jawa Timur,2016,406.0,ke bawah,"di luar [0.88, 277.02] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],8100,Maluku,2016,5.0,perubahan,"perubahan 2015→2016 x0.32 di luar [x0.34, x4.71] (pada 1+x)",False
+kejadian [jumlah],9400,Papua,2016,1.0,perubahan,"perubahan 2015→2016 x0.33 di luar [x0.34, x4.71] (pada 1+x)",False
+kejadian [jumlah],9500,Papua Selatan,2016,0.0,ke bawah + perubahan,"di luar [0.88, 277.02] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2015→2016 x0.33 di luar [x0.34, x4.71] (pada 1+x)",True
+kejadian [jumlah],1800,Lampung,2017,9.0,ke samping,"di luar [9.63, 184.94] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],3300,Jawa Tengah,2017,1071.0,ke bawah,"di luar [0.16, 624.40] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],6500,Kalimantan Utara,2017,2.0,perubahan,"perubahan 2016→2017 x0.19 di luar [x0.20, x7.91] (pada 1+x)",False
+kejadian [jumlah],9500,Papua Selatan,2017,0.0,ke bawah,"di luar [0.16, 624.40] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],1900,Kepulauan Bangka Belitung,2018,117.0,perubahan,"perubahan 2017→2018 x13.11 di luar [x0.14, x9.80] (pada 1+x)",False
+kejadian [jumlah],5300,Nusa Tenggara Timur,2018,185.0,perubahan,"perubahan 2017→2018 x13.29 di luar [x0.14, x9.80] (pada 1+x)",False
+kejadian [jumlah],9600,Papua Tengah,2018,0.0,ke samping,"di luar [0.08, 11.52] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],1900,Kepulauan Bangka Belitung,2019,22.0,perubahan,"perubahan 2018→2019 x0.19 di luar [x0.23, x5.36] (pada 1+x)",False
+kejadian [jumlah],3100,DKI Jakarta,2019,6.0,perubahan,"perubahan 2018→2019 x0.21 di luar [x0.23, x5.36] (pada 1+x)",False
+kejadian [jumlah],3200,Jawa Barat,2019,699.0,ke bawah,"di luar [1.75, 492.43] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],3300,Jawa Tengah,2019,926.0,ke bawah,"di luar [1.75, 492.43] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],3500,Jawa Timur,2019,622.0,ke bawah,"di luar [1.75, 492.43] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],5300,Nusa Tenggara Timur,2019,38.0,perubahan,"perubahan 2018→2019 x0.21 di luar [x0.23, x5.36] (pada 1+x)",False
+kejadian [jumlah],6500,Kalimantan Utara,2019,21.0,perubahan,"perubahan 2018→2019 x11.00 di luar [x0.23, x5.36] (pada 1+x)",False
+kejadian [jumlah],9200,Papua Barat Daya,2019,1.0,ke bawah,"di luar [1.75, 492.43] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],9500,Papua Selatan,2019,0.0,ke bawah,"di luar [1.75, 492.43] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],9700,Papua Pegunungan,2019,5.0,perubahan,"perubahan 2018→2019 x6.00 di luar [x0.23, x5.36] (pada 1+x)",False
+kejadian [jumlah],9700,Papua Pegunungan,2020,0.0,ke bawah + perubahan,"di luar [0.77, 1179.24] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2019→2020 x0.17 di luar [x0.30, x6.61] (pada 1+x)",False
+kejadian [jumlah],3200,Jawa Barat,2021,1358.0,ke bawah,"di luar [5.13, 926.05] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],9200,Papua Barat Daya,2021,0.0,ke bawah + perubahan,"di luar [5.13, 926.05] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2020→2021 x0.14 di luar [x0.32, x6.81] (pada 1+x)",False
+kejadian [jumlah],9500,Papua Selatan,2021,0.0,ke bawah,"di luar [5.13, 926.05] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],9600,Papua Tengah,2021,4.0,ke bawah,"di luar [5.13, 926.05] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],9700,Papua Pegunungan,2021,3.0,ke bawah,"di luar [5.13, 926.05] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],1500,Jambi,2022,9.0,perubahan,"perubahan 2021→2022 x0.10 di luar [x0.11, x3.22] (pada 1+x)",False
+kejadian [jumlah],2100,Kepulauan Riau,2022,11.0,perubahan,"perubahan 2021→2022 x0.11 di luar [x0.11, x3.22] (pada 1+x)",False
+kejadian [jumlah],3200,Jawa Barat,2022,825.0,ke bawah,"di luar [2.13, 711.24] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],9200,Papua Barat Daya,2022,8.0,perubahan,"perubahan 2021→2022 x9.00 di luar [x0.11, x3.22] (pada 1+x)",False
+kejadian [jumlah],9500,Papua Selatan,2022,0.0,ke bawah,"di luar [2.13, 711.24] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],9600,Papua Tengah,2022,0.0,ke bawah + ke samping,"di luar [2.13, 711.24] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; di luar [0.08, 11.52] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],9700,Papua Pegunungan,2022,1.0,ke bawah,"di luar [2.13, 711.24] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],9500,Papua Selatan,2023,2.0,ke bawah,"di luar [3.52, 1532.67] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],9600,Papua Tengah,2023,1.0,ke bawah,"di luar [3.52, 1532.67] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],9700,Papua Pegunungan,2023,2.0,ke bawah,"di luar [3.52, 1532.67] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+kejadian [jumlah],1600,Sumatera Selatan,2024,271.0,ke samping,"di luar [32.35, 173.28] dibanding 16 tahun di provinsi ini",False
+kejadian [jumlah],6300,Kalimantan Selatan,2024,26.0,perubahan,"perubahan 2023→2024 x0.05 di luar [x0.10, x6.23] (pada 1+x)",False
+kejadian [jumlah],1400,Riau,2025,396.0,perubahan,"perubahan 2024→2025 x5.75 di luar [x0.33, x4.82] (pada 1+x)",False
+kejadian [jumlah],6300,Kalimantan Selatan,2025,276.0,perubahan,"perubahan 2024→2025 x10.26 di luar [x0.33, x4.82] (pada 1+x)",False
+kejadian [jumlah],9500,Papua Selatan,2025,1.0,ke bawah,"di luar [4.53, 1026.97] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+kejadian [jumlah],9600,Papua Tengah,2025,4.0,ke bawah,"di luar [4.53, 1026.97] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_hilang [jumlah],1200,Sumatera Utara,2021,5.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",True
+korban_hilang [jumlah],2100,Kepulauan Riau,2021,6.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_hilang [jumlah],3500,Jawa Timur,2021,11.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_hilang [jumlah],5300,Nusa Tenggara Timur,2021,47.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_hilang [jumlah],7600,Sulawesi Barat,2021,7.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_hilang [jumlah],1300,Sumatera Barat,2022,3.0,perubahan,"perubahan 2021→2022 x4.00 di luar [x0.18, x2.83] (pada 1+x)",True
+korban_hilang [jumlah],2100,Kepulauan Riau,2022,0.0,perubahan,"perubahan 2021→2022 x0.14 di luar [x0.18, x2.83] (pada 1+x)",False
+korban_hilang [jumlah],3200,Jawa Barat,2022,12.0,ke bawah + perubahan,"di luar [-0.78, 11.10] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu; perubahan 2021→2022 x13.00 di luar [x0.18, x2.83] (pada 1+x)",True
+korban_hilang [jumlah],3400,DI Yogyakarta,2022,2.0,perubahan,"perubahan 2021→2022 x3.00 di luar [x0.18, x2.83] (pada 1+x)",False
+korban_hilang [jumlah],3500,Jawa Timur,2022,0.0,perubahan,"perubahan 2021→2022 x0.08 di luar [x0.18, x2.83] (pada 1+x)",False
+korban_hilang [jumlah],3600,Banten,2022,2.0,perubahan,"perubahan 2021→2022 x3.00 di luar [x0.18, x2.83] (pada 1+x)",False
+korban_hilang [jumlah],5300,Nusa Tenggara Timur,2022,2.0,perubahan,"perubahan 2021→2022 x0.06 di luar [x0.18, x2.83] (pada 1+x)",False
+korban_hilang [jumlah],7300,Sulawesi Selatan,2022,6.0,perubahan,"perubahan 2021→2022 x3.50 di luar [x0.18, x2.83] (pada 1+x)",False
+korban_hilang [jumlah],1300,Sumatera Barat,2024,21.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+korban_hilang [jumlah],3200,Jawa Barat,2024,9.0,ke bawah,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+korban_hilang [jumlah],7500,Gorontalo,2024,16.0,ke bawah + perubahan,"di luar [-0.65, 4.66] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2022→2024 x17.00 di luar [x0.08, x13.61] (pada 1+x)",False
+korban_hilang [jumlah],1100,Aceh,2025,30.0,perubahan,"perubahan 2024→2025 x31.00 di luar [x0.19, x15.59] (pada 1+x)",False
+korban_hilang [jumlah],1200,Sumatera Utara,2025,42.0,ke bawah + perubahan,"di luar [-0.88, 31.00] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2024→2025 x43.00 di luar [x0.19, x15.59] (pada 1+x)",True
+korban_hilang [jumlah],1300,Sumatera Barat,2025,70.0,ke bawah,"di luar [-0.88, 31.00] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+korban_hilang [jumlah],7500,Gorontalo,2025,0.0,perubahan,"perubahan 2024→2025 x0.06 di luar [x0.19, x15.59] (pada 1+x)",False
+korban_hilang [jumlah],9700,Papua Pegunungan,2025,15.0,perubahan,"perubahan 2024→2025 x16.00 di luar [x0.19, x15.59] (pada 1+x)",False
+korban_luka_sakit [jumlah],7600,Sulawesi Barat,2021,11126.0,ke bawah,"di luar [-0.95, 7405.00] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_luka_sakit [jumlah],1300,Sumatera Barat,2022,465.0,ke bawah,"di luar [-0.91, 346.73] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_luka_sakit [jumlah],3200,Jawa Barat,2022,7913.0,ke bawah,"di luar [-0.91, 346.73] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",True
+korban_luka_sakit [jumlah],7600,Sulawesi Barat,2022,37.0,perubahan,"perubahan 2021→2022 x0.00 di luar [x0.01, x26.56] (pada 1+x)",False
+korban_luka_sakit [jumlah],3200,Jawa Barat,2024,10645.0,ke bawah,"di luar [-0.91, 460.99] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",True
+korban_luka_sakit [jumlah],7500,Gorontalo,2024,235.0,perubahan,"perubahan 2022→2024 x236.00 di luar [x0.03, x51.24] (pada 1+x)",False
+korban_luka_sakit [jumlah],1100,Aceh,2025,5419.0,ke bawah + perubahan,"di luar [-0.95, 861.13] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2024→2025 x1806.67 di luar [x0.02, x46.14] (pada 1+x)",False
+korban_luka_sakit [jumlah],3200,Jawa Barat,2025,148.0,perubahan,"perubahan 2024→2025 x0.01 di luar [x0.02, x46.14] (pada 1+x)",True
+korban_luka_sakit [jumlah],7500,Gorontalo,2025,1.0,perubahan,"perubahan 2024→2025 x0.01 di luar [x0.02, x46.14] (pada 1+x)",False
+korban_luka_sakit [jumlah],9700,Papua Pegunungan,2025,222.0,perubahan,"perubahan 2024→2025 x223.00 di luar [x0.02, x46.14] (pada 1+x)",False
+korban_mengungsi [jumlah],1900,Kepulauan Bangka Belitung,2025,0.0,ke bawah,"di luar [1.07, 1583803.49] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_mengungsi [jumlah],9500,Papua Selatan,2025,0.0,ke bawah,"di luar [1.07, 1583803.49] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_mengungsi [jumlah],9600,Papua Tengah,2025,0.0,ke bawah,"di luar [1.07, 1583803.49] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_mengungsi_per_100rb [jumlah],1100,Aceh,2025,16839.655172413793,ke bawah,"di luar [-0.76, 5574.03] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal [jumlah],5300,Nusa Tenggara Timur,2021,190.0,ke bawah,"di luar [-0.67, 116.27] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_meninggal [jumlah],3200,Jawa Barat,2022,645.0,ke bawah,"di luar [-0.84, 140.89] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_meninggal [jumlah],5300,Nusa Tenggara Timur,2022,5.0,perubahan,"perubahan 2021→2022 x0.03 di luar [x0.06, x11.10] (pada 1+x)",False
+korban_meninggal [jumlah],7600,Sulawesi Barat,2022,3.0,perubahan,"perubahan 2021→2022 x0.04 di luar [x0.06, x11.10] (pada 1+x)",False
+korban_meninggal [jumlah],3200,Jawa Barat,2024,51.0,perubahan,"perubahan 2022→2024 x0.08 di luar [x0.09, x16.98] (pada 1+x)",False
+korban_meninggal [jumlah],6300,Kalimantan Selatan,2024,0.0,perubahan,"perubahan 2022→2024 x0.08 di luar [x0.09, x16.98] (pada 1+x)",False
+korban_meninggal [jumlah],7500,Gorontalo,2024,29.0,perubahan,"perubahan 2022→2024 x30.00 di luar [x0.09, x16.98] (pada 1+x)",False
+korban_meninggal [jumlah],1100,Aceh,2025,566.0,ke bawah + perubahan,"di luar [-0.57, 164.80] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu; perubahan 2024→2025 x56.70 di luar [x0.07, x29.73] (pada 1+x)",False
+korban_meninggal [jumlah],1200,Sumatera Utara,2025,384.0,ke bawah,"di luar [-0.57, 164.80] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal [jumlah],1300,Sumatera Barat,2025,270.0,ke bawah,"di luar [-0.57, 164.80] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal_hilang_per_100rb [jumlah],1100,Aceh,2025,10.593672236046926,ke bawah,"di luar [-0.35, 1.38] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal_hilang_per_100rb [jumlah],1200,Sumatera Utara,2025,2.698627880753589,ke bawah,"di luar [-0.35, 1.38] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal_hilang_per_100rb [jumlah],1300,Sumatera Barat,2025,5.748778384593274,ke bawah,"di luar [-0.35, 1.38] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal_hilang_per_100rb [jumlah],9100,Papua Barat,2025,3.4036759700476513,ke bawah,"di luar [-0.35, 1.38] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_meninggal_hilang_per_100rb [jumlah],9700,Papua Pegunungan,2025,1.8856488652434509,ke bawah,"di luar [-0.35, 1.38] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_terdampak [jumlah],5100,Bali,2024,7.0,ke bawah,"di luar [268.56, 14800281.55] (IQR x 1.5 pada log(1+x)) dibanding 38 provinsi tahun itu",False
+korban_terdampak [jumlah],5100,Bali,2025,33540.0,perubahan,"perubahan 2024→2025 x4192.62 di luar [x0.06, x30.98] (pada 1+x)",False
+korban_terdampak [jumlah],9700,Papua Pegunungan,2025,164982.0,perubahan,"perubahan 2024→2025 x54.59 di luar [x0.06, x30.98] (pada 1+x)",False
+korban_terdampak_mengungsi [jumlah],9100,Papua Barat,2021,479.0,ke bawah,"di luar [551.08, 12269674.00] (IQR x 1.5 pada log(1+x)) dibanding 34 provinsi tahun itu",False
+korban_terdampak_mengungsi [jumlah],5100,Bali,2022,23492.0,perubahan,"perubahan 2021→2022 x19.32 di luar [x0.10, x11.12] (pada 1+x)",False
+korban_terdampak_mengungsi [jumlah],6300,Kalimantan Selatan,2022,103051.0,perubahan,"perubahan 2021→2022 x0.09 di luar [x0.10, x11.12] (pada 1+x)",False
+korban_terdampak_mengungsi [jumlah],9100,Papua Barat,2022,7674.0,perubahan,"perubahan 2021→2022 x15.99 di luar [x0.10, x11.12] (pada 1+x)",False
