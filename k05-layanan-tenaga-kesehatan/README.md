@@ -8,7 +8,7 @@ snapshot 20 Oktober 2026.
 | Sprint | Isi | Status |
 |---|---|---|
 | [sprint-1](sprint-1/) | ekstraksi, profil, pembersihan, Silver pertama, persiapan integrasi dan SQL | selesai |
-| [sprint-2](sprint-2/) | panel Gold, Silver dan Gold di SQL, tabel rekonsiliasi | menyusul |
+| [sprint-2](sprint-2/) | panel Gold, Silver dan Gold di SQL, tabel rekonsiliasi | selesai |
 | [sprint-3](sprint-3/) | validasi lengkap dan laporan (kasus ini tanpa WDI) | menyusul |
 
 ## Hal yang paling sering terlewat di kasus ini

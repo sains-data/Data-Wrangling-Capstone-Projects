@@ -25,29 +25,29 @@ python -m pytest -q
 
 | Kasus | Sprint 1 | Sprint 2 | Sprint 3 |
 |---|---|---|---|
-| [01 Kerawanan pangan provinsi](k01-kerawanan-pangan/) | [selesai](k01-kerawanan-pangan/sprint-1/) (1.414 baris Silver, ±2,0 detik) | menyusul | menyusul |
-| [02 Kematian anak dan ibu](k02-kematian-anak-ibu/) | [selesai](k02-kematian-anak-ibu/sprint-1/) (867 baris Silver, ±1,9 detik) | menyusul | menyusul |
-| [03 Kesehatan reproduksi remaja](k03-kesehatan-reproduksi-remaja/) | [selesai](k03-kesehatan-reproduksi-remaja/sprint-1/) (235 baris Silver, ±1,8 detik) | menyusul | menyusul |
-| [04 Penyakit dan faktor risiko](k04-penyakit-faktor-risiko/) | [selesai](k04-penyakit-faktor-risiko/sprint-1/) (1.058 baris Silver, ±2,1 detik) | menyusul | menyusul |
-| [05 Layanan dan tenaga kesehatan](k05-layanan-tenaga-kesehatan/) | [selesai](k05-layanan-tenaga-kesehatan/sprint-1/) (1.722 baris Silver, ±2,3 detik) | menyusul | menyusul |
-| [06 Melek aksara](k06-melek-aksara/) | [selesai](k06-melek-aksara/sprint-1/) (5.762 baris Silver, ±2,4 detik) | menyusul | menyusul |
-| [07 Partisipasi dan lama sekolah](k07-partisipasi-lama-sekolah/) | [selesai](k07-partisipasi-lama-sekolah/sprint-1/) (4.216 baris Silver, ±3,3 detik) | menyusul | menyusul |
-| [08 Kesetaraan pendidikan](k08-kesetaraan-pendidikan/) | [selesai](k08-kesetaraan-pendidikan/sprint-1/) (5.418 baris Silver, ±4,0 detik) | menyusul | menyusul |
-| [09 Keterampilan TIK dan PAUD](k09-tik-paud/) | [selesai](k09-tik-paud/sprint-1/) (1.653 baris Silver, ±2,3 detik) | menyusul | menyusul |
-| [10 Kesetaraan gender](k10-kesetaraan-gender/) | [selesai](k10-kesetaraan-gender/sprint-1/) (840 baris Silver, ±1,9 detik) | menyusul | menyusul |
-| [11 Pengangguran](k11-pengangguran/) | [selesai](k11-pengangguran/sprint-1/) (7.572 baris Silver, ±2,9 detik) | menyusul | menyusul |
-| [12 Upah dan informalitas](k12-upah-informalitas/) | [selesai](k12-upah-informalitas/sprint-1/) (1.584 baris Silver, ±1,9 detik) | menyusul | menyusul |
-| [13 Pemuda dan pekerja anak](k13-pemuda-pekerja-anak/) | [selesai](k13-pemuda-pekerja-anak/sprint-1/) (720 baris Silver, ±1,9 detik) | menyusul | menyusul |
-| [14 Produktivitas dan industri](k14-produktivitas-industri/) | [selesai](k14-produktivitas-industri/sprint-1/) (1.779 baris Silver, ±2,4 detik) | menyusul | menyusul |
-| [15 Kemiskinan dan daerah tertinggal](k15-daerah-tertinggal/) | [selesai](k15-daerah-tertinggal/sprint-1/) (3.897 baris Silver, ±2,2 detik) | menyusul | menyusul |
-| [16 Ketimpangan dan layanan dasar](k16-ketimpangan-layanan-dasar/) | [selesai](k16-ketimpangan-layanan-dasar/sprint-1/) (1.137 baris Silver, ±2,2 detik) | menyusul | menyusul |
-| [17 Air minum, sanitasi, dan kebersihan](k17-air-sanitasi/) | [selesai](k17-air-sanitasi/sprint-1/) (3.242 baris Silver, ±2,8 detik) | menyusul | menyusul |
-| [18 Energi: listrik dan bahan bakar memasak](k18-energi/) | [selesai](k18-energi/sprint-1/) (4.889 baris Silver, ±2,9 detik) | menyusul | menyusul |
-| [19 Hunian dan transportasi](k19-hunian-transportasi/) | [selesai](k19-hunian-transportasi/sprint-1/) (1.305 baris Silver, ±2,5 detik) | menyusul | menyusul |
-| [20 Hutan, lahan, dan lingkungan](k20-hutan-lahan-lingkungan/) | [selesai](k20-hutan-lahan-lingkungan/sprint-1/) (4.045 baris Silver, ±2,9 detik) | menyusul | menyusul |
-| [21 Keamanan dan pencatatan sipil](k21-keamanan-pencatatan-sipil/) | [selesai](k21-keamanan-pencatatan-sipil/sprint-1/) (1.370 baris Silver, ±2,5 detik) | menyusul | menyusul |
-| [22 Korban bencana](k22-korban-bencana/) | [selesai](k22-korban-bencana/sprint-1/) (14.193 baris Silver, ±5,4 detik) | menyusul | menyusul |
-| [23 Kerusakan dan kerugian bencana](k23-kerusakan-kerugian-bencana/) | [selesai](k23-kerusakan-kerugian-bencana/sprint-1/) (18.187 baris Silver, ±6,7 detik) | menyusul | menyusul |
+| [01 Kerawanan pangan provinsi](k01-kerawanan-pangan/) | [selesai](k01-kerawanan-pangan/sprint-1/) (1.414 baris Silver, ±2,0 detik) | [selesai](k01-kerawanan-pangan/sprint-2/) (2 indikator Gold, 628 sel terisi, 68 baris rekonsiliasi) | menyusul |
+| [02 Kematian anak dan ibu](k02-kematian-anak-ibu/) | [selesai](k02-kematian-anak-ibu/sprint-1/) (867 baris Silver, ±1,9 detik) | [selesai](k02-kematian-anak-ibu/sprint-2/) (3 indikator Gold, 236 sel terisi, 135 baris rekonsiliasi) | menyusul |
+| [03 Kesehatan reproduksi remaja](k03-kesehatan-reproduksi-remaja/) | [selesai](k03-kesehatan-reproduksi-remaja/sprint-1/) (235 baris Silver, ±1,8 detik) | [selesai](k03-kesehatan-reproduksi-remaja/sprint-2/) (2 indikator Gold, 134 sel terisi, 28 baris rekonsiliasi) | menyusul |
+| [04 Penyakit dan faktor risiko](k04-penyakit-faktor-risiko/) | [selesai](k04-penyakit-faktor-risiko/sprint-1/) (1.058 baris Silver, ±2,1 detik) | [selesai](k04-penyakit-faktor-risiko/sprint-2/) (3 indikator Gold, 886 sel terisi, 71 baris rekonsiliasi) | menyusul |
+| [05 Layanan dan tenaga kesehatan](k05-layanan-tenaga-kesehatan/) | [selesai](k05-layanan-tenaga-kesehatan/sprint-1/) (1.722 baris Silver, ±2,3 detik) | [selesai](k05-layanan-tenaga-kesehatan/sprint-2/) (5 indikator Gold, 836 sel terisi, 17 baris rekonsiliasi) | menyusul |
+| [06 Melek aksara](k06-melek-aksara/) | [selesai](k06-melek-aksara/sprint-1/) (5.762 baris Silver, ±2,4 detik) | [selesai](k06-melek-aksara/sprint-2/) (2 indikator Gold, 995 sel terisi, 41 baris rekonsiliasi) | menyusul |
+| [07 Partisipasi dan lama sekolah](k07-partisipasi-lama-sekolah/) | [selesai](k07-partisipasi-lama-sekolah/sprint-1/) (4.216 baris Silver, ±3,3 detik) | [selesai](k07-partisipasi-lama-sekolah/sprint-2/) (7 indikator Gold, 3.726 sel terisi, 27 baris rekonsiliasi) | menyusul |
+| [08 Kesetaraan pendidikan](k08-kesetaraan-pendidikan/) | [selesai](k08-kesetaraan-pendidikan/sprint-1/) (5.418 baris Silver, ±4,0 detik) | [selesai](k08-kesetaraan-pendidikan/sprint-2/) (12 indikator Gold, 5.177 sel terisi, 21 baris rekonsiliasi) | menyusul |
+| [09 Keterampilan TIK dan PAUD](k09-tik-paud/) | [selesai](k09-tik-paud/sprint-1/) (1.653 baris Silver, ±2,3 detik) | [selesai](k09-tik-paud/sprint-2/) (4 indikator Gold, 1.528 sel terisi, 33 baris rekonsiliasi) | menyusul |
+| [10 Kesetaraan gender](k10-kesetaraan-gender/) | [selesai](k10-kesetaraan-gender/sprint-1/) (840 baris Silver, ±1,9 detik) | [selesai](k10-kesetaraan-gender/sprint-2/) (2 indikator Gold, 762 sel terisi, 33 baris rekonsiliasi) | menyusul |
+| [11 Pengangguran](k11-pengangguran/) | [selesai](k11-pengangguran/sprint-1/) (7.572 baris Silver, ±2,9 detik) | [selesai](k11-pengangguran/sprint-2/) (1 indikator Gold, 1.939 sel terisi, 91 baris rekonsiliasi) | menyusul |
+| [12 Upah dan informalitas](k12-upah-informalitas/) | [selesai](k12-upah-informalitas/sprint-1/) (1.584 baris Silver, ±1,9 detik) | [selesai](k12-upah-informalitas/sprint-2/) (2 indikator Gold, 662 sel terisi, 19 baris rekonsiliasi) | menyusul |
+| [13 Pemuda dan pekerja anak](k13-pemuda-pekerja-anak/) | [selesai](k13-pemuda-pekerja-anak/sprint-1/) (720 baris Silver, ±1,9 detik) | [selesai](k13-pemuda-pekerja-anak/sprint-2/) (2 indikator Gold, 588 sel terisi, 31 baris rekonsiliasi) | menyusul |
+| [14 Produktivitas dan industri](k14-produktivitas-industri/) | [selesai](k14-produktivitas-industri/sprint-1/) (1.779 baris Silver, ±2,4 detik) | [selesai](k14-produktivitas-industri/sprint-2/) (4 indikator Gold, 1.575 sel terisi, 67 baris rekonsiliasi) | menyusul |
+| [15 Kemiskinan dan daerah tertinggal](k15-daerah-tertinggal/) | [selesai](k15-daerah-tertinggal/sprint-1/) (3.897 baris Silver, ±2,2 detik) | [selesai](k15-daerah-tertinggal/sprint-2/) (3 indikator Gold, 1.329 sel terisi, 23 baris rekonsiliasi) | menyusul |
+| [16 Ketimpangan dan layanan dasar](k16-ketimpangan-layanan-dasar/) | [selesai](k16-ketimpangan-layanan-dasar/sprint-1/) (1.137 baris Silver, ±2,2 detik) | [selesai](k16-ketimpangan-layanan-dasar/sprint-2/) (5 indikator Gold, 777 sel terisi, 37 baris rekonsiliasi) | menyusul |
+| [17 Air minum, sanitasi, dan kebersihan](k17-air-sanitasi/) | [selesai](k17-air-sanitasi/sprint-1/) (3.242 baris Silver, ±2,8 detik) | [selesai](k17-air-sanitasi/sprint-2/) (6 indikator Gold, 2.549 sel terisi, 92 baris rekonsiliasi) | menyusul |
+| [18 Energi: listrik dan bahan bakar memasak](k18-energi/) | [selesai](k18-energi/sprint-1/) (4.889 baris Silver, ±2,9 detik) | [selesai](k18-energi/sprint-2/) (4 indikator Gold, 2.590 sel terisi, 54 baris rekonsiliasi) | menyusul |
+| [19 Hunian dan transportasi](k19-hunian-transportasi/) | [selesai](k19-hunian-transportasi/sprint-1/) (1.305 baris Silver, ±2,5 detik) | [selesai](k19-hunian-transportasi/sprint-2/) (7 indikator Gold, 1.258 sel terisi, 16 baris rekonsiliasi) | menyusul |
+| [20 Hutan, lahan, dan lingkungan](k20-hutan-lahan-lingkungan/) | [selesai](k20-hutan-lahan-lingkungan/sprint-1/) (4.045 baris Silver, ±2,9 detik) | [selesai](k20-hutan-lahan-lingkungan/sprint-2/) (7 indikator Gold, 1.641 sel terisi, 36 baris rekonsiliasi) | menyusul |
+| [21 Keamanan dan pencatatan sipil](k21-keamanan-pencatatan-sipil/) | [selesai](k21-keamanan-pencatatan-sipil/sprint-1/) (1.370 baris Silver, ±2,5 detik) | [selesai](k21-keamanan-pencatatan-sipil/sprint-2/) (6 indikator Gold, 1.315 sel terisi, 32 baris rekonsiliasi) | menyusul |
+| [22 Korban bencana](k22-korban-bencana/) | [selesai](k22-korban-bencana/sprint-1/) (14.193 baris Silver, ±5,4 detik) | [selesai](k22-korban-bencana/sprint-2/) (10 indikator Gold, 1.374 sel terisi, 19 baris rekonsiliasi) | menyusul |
+| [23 Kerusakan dan kerugian bencana](k23-kerusakan-kerugian-bencana/) | [selesai](k23-kerusakan-kerugian-bencana/sprint-1/) (18.187 baris Silver, ±6,7 detik) | [selesai](k23-kerusakan-kerugian-bencana/sprint-2/) (12 indikator Gold, 1.688 sel terisi, 33 baris rekonsiliasi) | menyusul |
 
 Data mentah tidak disimpan di repo ini; `unduh_data.py` mengunduhnya dari Release starter (snapshot 17–20
 Oktober 2026) dan memeriksa sha256-nya. Lisensi data mengikuti `data/LISENSI.md` yang ikut terunduh.

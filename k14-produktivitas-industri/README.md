@@ -8,7 +8,7 @@ Klaster C. Gender dan ketenagakerjaan, Tujuan SDG 2, 8, dan 9. Empat seri provin
 | Sprint | Isi | Status |
 |---|---|---|
 | [sprint-1](sprint-1/) | ekstraksi, profil, pembersihan, Silver pertama, persiapan integrasi dan SQL | selesai |
-| [sprint-2](sprint-2/) | panel Gold, laju dari WDI, Silver dan Gold di SQL, rekonsiliasi | menyusul |
+| [sprint-2](sprint-2/) | panel Gold, laju dari WDI, Silver dan Gold di SQL, rekonsiliasi | selesai |
 | [sprint-3](sprint-3/) | arsip WDI, pandas vs DuckDB/Dask, validasi lengkap, laporan | menyusul |
 
 ## Hal yang paling sering terlewat di kasus ini

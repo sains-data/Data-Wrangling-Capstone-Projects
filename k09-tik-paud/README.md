@@ -7,7 +7,7 @@ Paket `k09-tik-paud.zip`, 17 berkas, snapshot BPS 17 dan 20 Oktober 2026, WDI 20
 | Sprint | Isi | Status |
 |---|---|---|
 | [sprint-1](sprint-1/) | ekstraksi, profil, pembersihan, Silver pertama, persiapan integrasi dan SQL | selesai |
-| [sprint-2](sprint-2/) | panel Gold, Silver dan Gold di SQL, tabel rekonsiliasi | menyusul |
+| [sprint-2](sprint-2/) | panel Gold, Silver dan Gold di SQL, tabel rekonsiliasi | selesai |
 | [sprint-3](sprint-3/) | arsip WDI, pandas vs DuckDB/Dask, validasi lengkap, laporan | menyusul |
 
 ## Hal yang paling sering terlewat di kasus ini

@@ -7,7 +7,7 @@ informalitas) dan dua seri ILOSTAT (`SDG_0851_SEX_OCU_NB`, `SDG_0831_SEX_ECO_RT`
 | Sprint | Isi | Status |
 |---|---|---|
 | [sprint-1](sprint-1/) | ekstraksi, profil, pembersihan, Silver pertama, persiapan integrasi dan SQL | selesai |
-| [sprint-2](sprint-2/) | panel Gold, upah riil, Silver dan Gold di SQL, rekonsiliasi | menyusul |
+| [sprint-2](sprint-2/) | panel Gold, upah riil, Silver dan Gold di SQL, rekonsiliasi | selesai |
 | [sprint-3](sprint-3/) | validasi lengkap dan laporan (kasus ini tanpa WDI) | menyusul |
 
 ## Hal yang paling sering terlewat di kasus ini

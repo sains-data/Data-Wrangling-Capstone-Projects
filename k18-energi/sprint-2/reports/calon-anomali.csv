@@ -1,0 +1,338 @@
+seri_kode,wilayah_kode,nama_wilayah,periode,nilai,arah,alasan,berulang
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3100,DKI Jakarta,2001,28.71,ke bawah + ke samping,"di luar [-6.86, 17.47] (IQR x 1.5) dibanding 27 provinsi tahun itu; di luar [71.47, 100.18] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3200,Jawa Barat,2001,7.83,ke samping,"di luar [37.25, 114.88] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3600,Banten,2001,14.53,ke samping,"di luar [29.29, 118.81] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5100,Bali,2001,22.43,ke bawah,"di luar [-6.86, 17.47] (IQR x 1.5) dibanding 27 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],7300,Sulawesi Selatan,2001,18.92,ke bawah,"di luar [-6.86, 17.47] (IQR x 1.5) dibanding 27 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],1900,Kepulauan Bangka Belitung,2007,24.36,perubahan,"perubahan 2001→2007 sebesar +16.09 di luar [-5.17, 10.82]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3100,DKI Jakarta,2007,34.2,ke bawah + ke samping,"di luar [-12.38, 27.19] (IQR x 1.5) dibanding 33 provinsi tahun itu; di luar [71.47, 100.18] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3200,Jawa Barat,2007,11.56,ke samping,"di luar [37.25, 114.88] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3600,Banten,2007,16.52,ke samping,"di luar [29.29, 118.81] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3100,DKI Jakarta,2008,75.86,ke bawah + perubahan,"di luar [-16.67, 36.37] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2007→2008 sebesar +41.66 di luar [-5.59, 10.89]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3200,Jawa Barat,2008,25.04,perubahan + ke samping,"perubahan 2007→2008 sebesar +13.48 di luar [-5.59, 10.89]; di luar [37.25, 114.88] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3600,Banten,2008,38.88,ke bawah + perubahan,"di luar [-16.67, 36.37] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2007→2008 sebesar +22.36 di luar [-5.59, 10.89]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],1600,Sumatera Selatan,2009,39.9,perubahan,"perubahan 2008→2009 sebesar +21.78 di luar [-8.66, 13.95]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3100,DKI Jakarta,2009,83.75,ke bawah,"di luar [-41.81, 77.79] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3200,Jawa Barat,2009,66.69,perubahan,"perubahan 2008→2009 sebesar +41.65 di luar [-8.66, 13.95]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3300,Jawa Tengah,2009,35.39,perubahan,"perubahan 2008→2009 sebesar +21.78 di luar [-8.66, 13.95]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3400,DI Yogyakarta,2009,43.06,perubahan,"perubahan 2008→2009 sebesar +18.30 di luar [-8.66, 13.95]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3500,Jawa Timur,2009,32.94,perubahan,"perubahan 2008→2009 sebesar +18.14 di luar [-8.66, 13.95]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],3600,Banten,2009,62.0,perubahan,"perubahan 2008→2009 sebesar +23.12 di luar [-8.66, 13.95]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],2100,Kepulauan Riau,2010,33.32,perubahan,"perubahan 2009→2010 sebesar +24.87 di luar [-13.42, 22.07]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],6400,Kalimantan Timur,2010,52.81,perubahan,"perubahan 2009→2010 sebesar +24.05 di luar [-13.42, 22.07]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],2100,Kepulauan Riau,2011,53.44,perubahan,"perubahan 2010→2011 sebesar +20.12 di luar [-10.41, 20.07]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5300,Nusa Tenggara Timur,2016,0.57,ke bawah,"di luar [13.60, 115.96] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],6200,Kalimantan Tengah,2016,51.07,perubahan,"perubahan 2015→2016 sebesar +16.84 di luar [-5.38, 14.75]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],7200,Sulawesi Tengah,2016,29.45,perubahan,"perubahan 2015→2016 sebesar +16.36 di luar [-5.38, 14.75]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8100,Maluku,2016,0.65,ke bawah,"di luar [13.60, 115.96] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8200,Maluku Utara,2016,0.65,ke bawah,"di luar [13.60, 115.96] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9100,Papua Barat,2016,1.59,ke bawah,"di luar [13.60, 115.96] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9400,Papua,2016,0.8,ke bawah,"di luar [13.60, 115.96] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5300,Nusa Tenggara Timur,2017,0.52,ke bawah,"di luar [35.49, 110.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],6200,Kalimantan Tengah,2017,69.27,perubahan,"perubahan 2016→2017 sebesar +18.20 di luar [-5.18, 13.36]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],7200,Sulawesi Tengah,2017,47.88,perubahan,"perubahan 2016→2017 sebesar +18.43 di luar [-5.18, 13.36]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8100,Maluku,2017,0.44,ke bawah,"di luar [35.49, 110.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8200,Maluku Utara,2017,0.89,ke bawah,"di luar [35.49, 110.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9100,Papua Barat,2017,3.42,ke bawah,"di luar [35.49, 110.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9400,Papua,2017,0.88,ke bawah,"di luar [35.49, 110.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5300,Nusa Tenggara Timur,2018,1.04,ke bawah,"di luar [41.99, 111.15] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8100,Maluku,2018,0.75,ke bawah,"di luar [41.99, 111.15] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8200,Maluku Utara,2018,1.7,ke bawah,"di luar [41.99, 111.15] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9100,Papua Barat,2018,4.5,ke bawah,"di luar [41.99, 111.15] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9400,Papua,2018,1.13,ke bawah,"di luar [41.99, 111.15] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5300,Nusa Tenggara Timur,2019,1.2,ke bawah,"di luar [50.35, 109.06] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],7200,Sulawesi Tengah,2019,49.57,ke bawah,"di luar [50.35, 109.06] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8100,Maluku,2019,0.89,ke bawah,"di luar [50.35, 109.06] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8200,Maluku Utara,2019,1.23,ke bawah,"di luar [50.35, 109.06] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9100,Papua Barat,2019,4.31,ke bawah,"di luar [50.35, 109.06] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9400,Papua,2019,1.39,ke bawah,"di luar [50.35, 109.06] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5300,Nusa Tenggara Timur,2020,1.01,ke bawah,"di luar [54.58, 110.28] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],7200,Sulawesi Tengah,2020,59.55,perubahan,"perubahan 2019→2020 sebesar +9.98 di luar [-3.31, 7.58]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8100,Maluku,2020,0.8,ke bawah,"di luar [54.58, 110.28] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8200,Maluku Utara,2020,0.97,ke bawah,"di luar [54.58, 110.28] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9100,Papua Barat,2020,4.35,ke bawah,"di luar [54.58, 110.28] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9400,Papua,2020,1.73,ke bawah,"di luar [54.58, 110.28] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5200,Nusa Tenggara Barat,2021,79.53,perubahan,"perubahan 2020→2021 sebesar +17.88 di luar [-1.95, 4.69]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],5300,Nusa Tenggara Timur,2021,1.41,ke bawah,"di luar [61.97, 108.91] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],7200,Sulawesi Tengah,2021,68.97,perubahan,"perubahan 2020→2021 sebesar +9.42 di luar [-1.95, 4.69]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8100,Maluku,2021,1.76,ke bawah,"di luar [61.97, 108.91] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],8200,Maluku Utara,2021,1.48,ke bawah,"di luar [61.97, 108.91] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9100,Papua Barat,2021,5.21,ke bawah,"di luar [61.97, 108.91] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=gas_elpiji],9400,Papua,2021,1.92,ke bawah,"di luar [61.97, 108.91] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3100,DKI Jakarta,2001,0.28,ke bawah,"di luar [23.33, 77.31] (IQR x 1.5) dibanding 27 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2001,81.51,ke bawah,"di luar [23.33, 77.31] (IQR x 1.5) dibanding 27 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],2100,Kepulauan Riau,2007,12.29,ke bawah,"di luar [25.97, 87.89] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3100,DKI Jakarta,2007,0.27,ke bawah,"di luar [25.97, 87.89] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],6400,Kalimantan Timur,2007,24.1,ke bawah,"di luar [25.97, 87.89] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],1400,Riau,2008,24.53,perubahan,"perubahan 2007→2008 sebesar -10.15 di luar [-8.01, 5.08]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],2100,Kepulauan Riau,2008,20.83,perubahan + ke samping,"perubahan 2007→2008 sebesar +8.54 di luar [-8.01, 5.08]; di luar [-6.35, 17.79] dibanding 15 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3100,DKI Jakarta,2008,0.68,ke bawah + ke samping,"di luar [17.56, 91.72] (IQR x 1.5) dibanding 33 provinsi tahun itu; di luar [-0.32, 0.62] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3100,DKI Jakarta,2009,0.52,ke bawah,"di luar [13.05, 92.61] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3300,Jawa Tengah,2009,51.31,perubahan,"perubahan 2008→2009 sebesar -9.10 di luar [-8.04, 4.41]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],2100,Kepulauan Riau,2010,8.91,ke bawah + perubahan,"di luar [11.62, 90.82] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2009→2010 sebesar -7.74 di luar [-7.20, 4.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3100,DKI Jakarta,2010,0.3,ke bawah,"di luar [11.62, 90.82] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7600,Sulawesi Barat,2010,73.71,perubahan,"perubahan 2009→2010 sebesar +5.39 di luar [-7.20, 4.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8100,Maluku,2010,55.51,perubahan,"perubahan 2009→2010 sebesar -7.26 di luar [-7.20, 4.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9100,Papua Barat,2010,42.85,perubahan,"perubahan 2009→2010 sebesar -12.40 di luar [-7.20, 4.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],3100,DKI Jakarta,2011,0.16,ke bawah,"di luar [2.03, 95.19] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],6100,Kalimantan Barat,2012,39.3,perubahan,"perubahan 2011→2012 sebesar -10.66 di luar [-10.22, 5.83]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7600,Sulawesi Barat,2012,61.15,perubahan,"perubahan 2011→2012 sebesar -10.40 di luar [-10.22, 5.83]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2014,79.6,ke bawah,"di luar [-8.64, 77.88] (IQR x 1.5) dibanding 33 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7500,Gorontalo,2014,43.96,perubahan,"perubahan 2013→2014 sebesar -9.94 di luar [-7.98, 2.46]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2015,78.17,ke bawah,"di luar [-9.18, 66.98] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],6500,Kalimantan Utara,2015,20.57,ke samping,"di luar [8.32, 17.22] dibanding 7 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2015,67.74,ke bawah,"di luar [-9.18, 66.98] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2016,77.58,ke bawah,"di luar [-13.62, 62.19] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2016,67.04,ke bawah,"di luar [-13.62, 62.19] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2017,75.25,ke bawah,"di luar [-9.20, 48.77] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7200,Sulawesi Tengah,2017,37.68,perubahan,"perubahan 2016→2017 sebesar -13.05 di luar [-12.10, 3.09]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8200,Maluku Utara,2017,53.85,ke bawah,"di luar [-9.20, 48.77] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2017,63.49,ke bawah,"di luar [-9.20, 48.77] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2018,74.81,ke bawah,"di luar [-8.82, 44.25] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8200,Maluku Utara,2018,49.87,ke bawah,"di luar [-8.82, 44.25] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2018,64.37,ke bawah,"di luar [-8.82, 44.25] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2019,70.94,ke bawah,"di luar [-8.00, 37.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],6500,Kalimantan Utara,2019,13.21,perubahan,"perubahan 2018→2019 sebesar +3.28 di luar [-5.56, 0.67]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7200,Sulawesi Tengah,2019,42.04,ke bawah + perubahan,"di luar [-8.00, 37.30] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2018→2019 sebesar +5.95 di luar [-5.56, 0.67]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8200,Maluku Utara,2019,48.63,ke bawah,"di luar [-8.00, 37.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2019,62.76,ke bawah,"di luar [-8.00, 37.30] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5200,Nusa Tenggara Barat,2020,26.65,perubahan,"perubahan 2019→2020 sebesar +5.21 di luar [-6.05, 3.20]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2020,70.83,ke bawah,"di luar [-6.25, 31.75] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7200,Sulawesi Tengah,2020,33.36,ke bawah + perubahan,"di luar [-6.25, 31.75] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2019→2020 sebesar -8.68 di luar [-6.05, 3.20]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8200,Maluku Utara,2020,46.47,ke bawah,"di luar [-6.25, 31.75] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2020,63.15,ke bawah,"di luar [-6.25, 31.75] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5200,Nusa Tenggara Barat,2021,11.02,perubahan,"perubahan 2020→2021 sebesar -15.63 di luar [-3.63, 2.16]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],5300,Nusa Tenggara Timur,2021,69.28,ke bawah,"di luar [-7.34, 29.45] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],6500,Kalimantan Utara,2021,13.14,perubahan,"perubahan 2020→2021 sebesar +2.35 di luar [-3.63, 2.16]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],7200,Sulawesi Tengah,2021,23.79,perubahan,"perubahan 2020→2021 sebesar -9.57 di luar [-3.63, 2.16]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8100,Maluku,2021,30.2,ke bawah,"di luar [-7.34, 29.45] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],8200,Maluku Utara,2021,45.03,ke bawah,"di luar [-7.34, 29.45] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9100,Papua Barat,2021,27.34,perubahan,"perubahan 2020→2021 sebesar +3.56 di luar [-3.63, 2.16]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=kayu],9400,Papua,2021,64.67,ke bawah,"di luar [-7.34, 29.45] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1600,Sumatera Selatan,2001,35.79,ke samping,"di luar [-10.69, 20.12] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1800,Lampung,2001,21.34,ke samping,"di luar [-10.88, 18.67] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3100,DKI Jakarta,2001,60.92,ke samping,"di luar [-7.19, 16.19] dibanding 15 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3200,Jawa Barat,2001,61.12,ke samping,"di luar [-3.54, 6.49] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3300,Jawa Tengah,2001,35.04,ke samping,"di luar [-5.62, 9.79] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3400,DI Yogyakarta,2001,31.27,ke samping,"di luar [-2.62, 5.00] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3500,Jawa Timur,2001,43.18,ke samping,"di luar [-11.49, 19.98] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3600,Banten,2001,57.49,ke samping,"di luar [-4.57, 8.44] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5100,Bali,2001,27.67,ke samping,"di luar [-12.05, 20.90] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1600,Sumatera Selatan,2007,35.14,ke samping,"di luar [-10.69, 20.12] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],2100,Kepulauan Riau,2007,70.02,ke bawah,"di luar [3.01, 64.98] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3100,DKI Jakarta,2007,57.9,ke samping,"di luar [-7.19, 16.19] dibanding 15 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3200,Jawa Barat,2007,48.74,ke samping,"di luar [-3.54, 6.49] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3300,Jawa Tengah,2007,26.25,ke samping,"di luar [-5.62, 9.79] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3400,DI Yogyakarta,2007,23.25,ke samping,"di luar [-2.62, 5.00] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3500,Jawa Timur,2007,34.08,ke samping,"di luar [-11.49, 19.98] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3600,Banten,2007,45.46,ke samping,"di luar [-4.57, 8.44] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5100,Bali,2007,23.68,ke samping,"di luar [-12.05, 20.90] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1600,Sumatera Selatan,2008,31.87,ke samping,"di luar [-10.69, 20.12] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],2100,Kepulauan Riau,2008,63.98,ke bawah,"di luar [8.44, 54.84] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3100,DKI Jakarta,2008,16.7,perubahan + ke samping,"perubahan 2007→2008 sebesar -41.20 di luar [-11.07, 9.73]; di luar [-7.19, 16.19] dibanding 15 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3200,Jawa Barat,2008,38.99,ke samping,"di luar [-3.54, 6.49] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3300,Jawa Tengah,2008,24.14,ke samping,"di luar [-5.62, 9.79] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3400,DI Yogyakarta,2008,15.7,ke samping,"di luar [-2.62, 5.00] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3500,Jawa Timur,2008,27.23,ke samping,"di luar [-11.49, 19.98] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3600,Banten,2008,26.67,perubahan + ke samping,"perubahan 2007→2008 sebesar -18.79 di luar [-11.07, 9.73]; di luar [-4.57, 8.44] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5100,Bali,2008,22.23,ke samping,"di luar [-12.05, 20.90] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1600,Sumatera Selatan,2009,13.64,perubahan,"perubahan 2008→2009 sebesar -18.23 di luar [-18.02, 14.01]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3200,Jawa Barat,2009,2.83,perubahan,"perubahan 2008→2009 sebesar -36.16 di luar [-18.02, 14.01]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3300,Jawa Tengah,2009,11.25,ke samping,"di luar [-5.62, 9.79] dibanding 16 tahun di provinsi ini",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],3600,Banten,2009,4.05,perubahan,"perubahan 2008→2009 sebesar -22.62 di luar [-18.02, 14.01]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1200,Sumatera Utara,2010,27.42,perubahan,"perubahan 2009→2010 sebesar -24.34 di luar [-20.66, 13.85]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6400,Kalimantan Timur,2010,24.62,perubahan,"perubahan 2009→2010 sebesar -22.20 di luar [-20.66, 13.85]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1400,Riau,2011,33.29,perubahan,"perubahan 2010→2011 sebesar -12.23 di luar [-11.62, 6.33]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1700,Bengkulu,2011,10.05,perubahan,"perubahan 2010→2011 sebesar -12.41 di luar [-11.62, 6.33]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],2100,Kepulauan Riau,2011,33.29,perubahan,"perubahan 2010→2011 sebesar -19.93 di luar [-11.62, 6.33]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1400,Riau,2012,16.27,perubahan,"perubahan 2011→2012 sebesar -17.02 di luar [-16.29, 8.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7100,Sulawesi Utara,2012,26.73,perubahan,"perubahan 2011→2012 sebesar -21.13 di luar [-16.29, 8.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7500,Gorontalo,2012,15.0,perubahan,"perubahan 2011→2012 sebesar -21.08 di luar [-16.29, 8.96]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7100,Sulawesi Utara,2013,18.47,perubahan,"perubahan 2012→2013 sebesar -8.26 di luar [-5.71, 4.37]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7400,Sulawesi Tenggara,2013,32.27,perubahan,"perubahan 2012→2013 sebesar +4.51 di luar [-5.71, 4.37]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2013,44.65,perubahan,"perubahan 2012→2013 sebesar +4.43 di luar [-5.71, 4.37]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1300,Sumatera Barat,2015,16.08,perubahan,"perubahan 2014→2015 sebesar -9.46 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1900,Kepulauan Bangka Belitung,2015,16.89,perubahan,"perubahan 2014→2015 sebesar -10.64 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6300,Kalimantan Selatan,2015,18.58,perubahan,"perubahan 2014→2015 sebesar -5.76 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6400,Kalimantan Timur,2015,1.73,perubahan,"perubahan 2014→2015 sebesar -7.07 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2015,51.62,ke bawah + perubahan,"di luar [-28.58, 50.06] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2014→2015 sebesar +3.39 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8200,Maluku Utara,2015,39.02,perubahan,"perubahan 2014→2015 sebesar +3.83 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2015,59.8,ke bawah + perubahan,"di luar [-28.58, 50.06] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2014→2015 sebesar +8.56 di luar [-5.52, 3.28]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1300,Sumatera Barat,2016,8.01,perubahan,"perubahan 2015→2016 sebesar -8.07 di luar [-5.17, 3.02]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6200,Kalimantan Tengah,2016,23.02,perubahan,"perubahan 2015→2016 sebesar -11.53 di luar [-5.17, 3.02]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6300,Kalimantan Selatan,2016,12.31,perubahan,"perubahan 2015→2016 sebesar -6.27 di luar [-5.17, 3.02]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7200,Sulawesi Tengah,2016,14.33,perubahan,"perubahan 2015→2016 sebesar -10.08 di luar [-5.17, 3.02]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2016,55.07,ke bawah + perubahan,"di luar [-25.35, 43.33] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2015→2016 sebesar +3.45 di luar [-5.17, 3.02]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2016,58.05,ke bawah,"di luar [-25.35, 43.33] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],2100,Kepulauan Riau,2017,16.15,perubahan,"perubahan 2016→2017 sebesar -1.47 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5200,Nusa Tenggara Barat,2017,18.45,perubahan,"perubahan 2016→2017 sebesar +1.01 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5300,Nusa Tenggara Timur,2017,23.51,perubahan,"perubahan 2016→2017 sebesar +2.46 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6200,Kalimantan Tengah,2017,12.68,perubahan,"perubahan 2016→2017 sebesar -10.34 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6300,Kalimantan Selatan,2017,7.55,perubahan,"perubahan 2016→2017 sebesar -4.76 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6500,Kalimantan Utara,2017,17.69,perubahan,"perubahan 2016→2017 sebesar -3.36 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7200,Sulawesi Tengah,2017,10.92,perubahan,"perubahan 2016→2017 sebesar -3.41 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7400,Sulawesi Tenggara,2017,19.17,perubahan,"perubahan 2016→2017 sebesar +1.45 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2017,61.55,ke bawah + perubahan,"di luar [-22.38, 38.34] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2016→2017 sebesar +6.48 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8200,Maluku Utara,2017,44.12,ke bawah + perubahan,"di luar [-22.38, 38.34] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2016→2017 sebesar +4.55 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2017,63.66,ke bawah + perubahan,"di luar [-22.38, 38.34] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2016→2017 sebesar +5.61 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9400,Papua,2017,34.44,perubahan,"perubahan 2016→2017 sebesar +2.98 di luar [-1.38, 1.00]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5200,Nusa Tenggara Barat,2018,15.68,perubahan,"perubahan 2017→2018 sebesar -2.77 di luar [-2.11, 1.18]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6200,Kalimantan Tengah,2018,7.13,perubahan,"perubahan 2017→2018 sebesar -5.55 di luar [-2.11, 1.18]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6500,Kalimantan Utara,2018,13.3,perubahan,"perubahan 2017→2018 sebesar -4.39 di luar [-2.11, 1.18]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7400,Sulawesi Tenggara,2018,16.59,perubahan,"perubahan 2017→2018 sebesar -2.58 di luar [-2.11, 1.18]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2018,62.41,ke bawah,"di luar [-19.91, 34.02] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8200,Maluku Utara,2018,46.36,ke bawah + perubahan,"di luar [-19.91, 34.02] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2017→2018 sebesar +2.24 di luar [-2.11, 1.18]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2018,66.94,ke bawah + perubahan,"di luar [-19.91, 34.02] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2017→2018 sebesar +3.28 di luar [-2.11, 1.18]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1900,Kepulauan Bangka Belitung,2019,11.04,perubahan,"perubahan 2018→2019 sebesar -2.92 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],2100,Kepulauan Riau,2019,13.17,perubahan,"perubahan 2018→2019 sebesar -3.98 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5200,Nusa Tenggara Barat,2019,18.97,perubahan,"perubahan 2018→2019 sebesar +3.29 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5300,Nusa Tenggara Timur,2019,26.98,ke bawah + perubahan,"di luar [-15.38, 26.48] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2018→2019 sebesar +3.64 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],6500,Kalimantan Utara,2019,6.41,perubahan,"perubahan 2018→2019 sebesar -6.89 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7200,Sulawesi Tengah,2019,6.42,perubahan,"perubahan 2018→2019 sebesar -2.63 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7400,Sulawesi Tenggara,2019,19.38,perubahan,"perubahan 2018→2019 sebesar +2.79 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2019,65.82,ke bawah + perubahan,"di luar [-15.38, 26.48] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2018→2019 sebesar +3.41 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8200,Maluku Utara,2019,47.5,ke bawah,"di luar [-15.38, 26.48] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2019,69.59,ke bawah + perubahan,"di luar [-15.38, 26.48] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2018→2019 sebesar +2.65 di luar [-2.45, 1.88]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9400,Papua,2019,34.35,ke bawah,"di luar [-15.38, 26.48] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],1900,Kepulauan Bangka Belitung,2020,3.59,perubahan,"perubahan 2019→2020 sebesar -7.45 di luar [-1.54, 0.94]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],2100,Kepulauan Riau,2020,8.42,perubahan,"perubahan 2019→2020 sebesar -4.75 di luar [-1.54, 0.94]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5200,Nusa Tenggara Barat,2020,9.2,perubahan,"perubahan 2019→2020 sebesar -9.77 di luar [-1.54, 0.94]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5300,Nusa Tenggara Timur,2020,27.08,ke bawah,"di luar [-11.15, 19.11] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],7400,Sulawesi Tenggara,2020,19.37,ke bawah,"di luar [-11.15, 19.11] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2020,65.84,ke bawah,"di luar [-11.15, 19.11] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8200,Maluku Utara,2020,50.34,ke bawah + perubahan,"di luar [-11.15, 19.11] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2019→2020 sebesar +2.84 di luar [-1.54, 0.94]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2020,70.47,ke bawah,"di luar [-11.15, 19.11] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9400,Papua,2020,33.9,ke bawah,"di luar [-11.15, 19.11] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],5300,Nusa Tenggara Timur,2021,28.4,ke bawah,"di luar [-11.05, 18.82] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8100,Maluku,2021,66.56,ke bawah,"di luar [-11.05, 18.82] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],8200,Maluku Utara,2021,51.58,ke bawah,"di luar [-11.05, 18.82] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9100,Papua Barat,2021,65.88,ke bawah + perubahan,"di luar [-11.05, 18.82] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2020→2021 sebesar -4.59 di luar [-2.67, 1.57]",False
+tabel:sdg7_bahan_bakar [bahan_bakar=minyak_tanah],9400,Papua,2021,32.47,ke bawah,"di luar [-11.05, 18.82] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,1100,Aceh,1993,36.48,ke samping,"di luar [56.41, 124.75] dibanding 30 tahun di provinsi ini",False
+var87,1200,Sumatera Utara,1993,50.55,ke samping,"di luar [65.37, 114.45] dibanding 32 tahun di provinsi ini",False
+var87,3100,DKI Jakarta,1993,97.14,ke bawah,"di luar [-6.56, 88.46] (IQR x 1.5) dibanding 26 provinsi tahun itu",False
+var87,3200,Jawa Barat,1993,61.56,ke samping,"di luar [83.53, 109.28] dibanding 32 tahun di provinsi ini",False
+var87,3300,Jawa Tengah,1993,54.96,ke samping,"di luar [86.69, 107.64] dibanding 32 tahun di provinsi ini",False
+var87,3400,DI Yogyakarta,1993,68.21,ke samping,"di luar [91.25, 104.86] dibanding 32 tahun di provinsi ini",False
+var87,3500,Jawa Timur,1993,51.75,ke samping,"di luar [84.09, 108.58] dibanding 32 tahun di provinsi ini",False
+var87,5100,Bali,1993,76.49,ke samping,"di luar [88.82, 106.33] dibanding 32 tahun di provinsi ini",False
+var87,6100,Kalimantan Barat,1993,28.54,ke samping,"di luar [31.91, 113.27] dibanding 32 tahun di provinsi ini",False
+var87,6400,Kalimantan Timur,1993,53.19,ke samping,"di luar [63.11, 109.46] dibanding 32 tahun di provinsi ini",False
+var87,7100,Sulawesi Utara,1993,62.7,ke samping,"di luar [72.26, 114.57] dibanding 32 tahun di provinsi ini",False
+var87,1100,Aceh,1994,39.23,ke samping,"di luar [56.41, 124.75] dibanding 30 tahun di provinsi ini",False
+var87,1200,Sumatera Utara,1994,57.47,ke samping,"di luar [65.37, 114.45] dibanding 32 tahun di provinsi ini",False
+var87,3200,Jawa Barat,1994,68.67,ke samping,"di luar [83.53, 109.28] dibanding 32 tahun di provinsi ini",False
+var87,3300,Jawa Tengah,1994,61.64,ke samping,"di luar [86.69, 107.64] dibanding 32 tahun di provinsi ini",False
+var87,3400,DI Yogyakarta,1994,75.86,ke samping,"di luar [91.25, 104.86] dibanding 32 tahun di provinsi ini",False
+var87,3500,Jawa Timur,1994,60.04,ke samping,"di luar [84.09, 108.58] dibanding 32 tahun di provinsi ini",False
+var87,5100,Bali,1994,79.27,ke samping,"di luar [88.82, 106.33] dibanding 32 tahun di provinsi ini",False
+var87,6400,Kalimantan Timur,1994,62.39,ke samping,"di luar [63.11, 109.46] dibanding 32 tahun di provinsi ini",False
+var87,7100,Sulawesi Utara,1994,64.67,ke samping,"di luar [72.26, 114.57] dibanding 32 tahun di provinsi ini",False
+var87,1100,Aceh,1995,45.35,ke samping,"di luar [56.41, 124.75] dibanding 30 tahun di provinsi ini",False
+var87,1200,Sumatera Utara,1995,59.08,ke samping,"di luar [65.37, 114.45] dibanding 32 tahun di provinsi ini",False
+var87,3200,Jawa Barat,1995,74.37,ke samping,"di luar [83.53, 109.28] dibanding 32 tahun di provinsi ini",False
+var87,3300,Jawa Tengah,1995,70.97,ke samping,"di luar [86.69, 107.64] dibanding 32 tahun di provinsi ini",False
+var87,3400,DI Yogyakarta,1995,81.42,ke samping,"di luar [91.25, 104.86] dibanding 32 tahun di provinsi ini",False
+var87,3500,Jawa Timur,1995,66.69,ke samping,"di luar [84.09, 108.58] dibanding 32 tahun di provinsi ini",False
+var87,5100,Bali,1995,86.13,ke samping,"di luar [88.82, 106.33] dibanding 32 tahun di provinsi ini",False
+var87,7100,Sulawesi Utara,1995,70.23,ke samping,"di luar [72.26, 114.57] dibanding 32 tahun di provinsi ini",False
+var87,1100,Aceh,1996,50.52,ke samping,"di luar [56.41, 124.75] dibanding 30 tahun di provinsi ini",False
+var87,3200,Jawa Barat,1996,79.68,ke samping,"di luar [83.53, 109.28] dibanding 32 tahun di provinsi ini",False
+var87,3300,Jawa Tengah,1996,78.17,ke samping,"di luar [86.69, 107.64] dibanding 32 tahun di provinsi ini",False
+var87,3400,DI Yogyakarta,1996,85.51,ke samping,"di luar [91.25, 104.86] dibanding 32 tahun di provinsi ini",False
+var87,3500,Jawa Timur,1996,74.32,ke samping,"di luar [84.09, 108.58] dibanding 32 tahun di provinsi ini",False
+var87,7100,Sulawesi Utara,1996,71.94,ke samping,"di luar [72.26, 114.57] dibanding 32 tahun di provinsi ini",False
+var87,3100,DKI Jakarta,1997,98.47,perubahan,"perubahan 1996→1997 sebesar +0.07 di luar [1.58, 10.13]",False
+var87,3300,Jawa Tengah,1997,83.59,ke samping,"di luar [86.69, 107.64] dibanding 32 tahun di provinsi ini",False
+var87,3400,DI Yogyakarta,1997,90.48,ke samping,"di luar [91.25, 104.86] dibanding 32 tahun di provinsi ini",False
+var87,3500,Jawa Timur,1997,79.04,ke samping,"di luar [84.09, 108.58] dibanding 32 tahun di provinsi ini",False
+var87,6100,Kalimantan Barat,1997,56.89,perubahan,"perubahan 1996→1997 sebesar +12.30 di luar [1.58, 10.13]",False
+var87,7400,Sulawesi Tenggara,1998,49.45,perubahan,"perubahan 1997→1998 sebesar +11.57 di luar [-1.35, 9.22]",False
+var87,9400,Papua,1998,34.56,perubahan,"perubahan 1997→1998 sebesar -2.13 di luar [-1.35, 9.22]",False
+var87,1800,Lampung,2000,43.06,perubahan,"perubahan 1999→2000 sebesar +6.57 di luar [-2.74, 4.93]",False
+var87,6400,Kalimantan Timur,2000,76.47,perubahan,"perubahan 1999→2000 sebesar -6.27 di luar [-2.74, 4.93]",False
+var87,7300,Sulawesi Selatan,2000,77.02,perubahan,"perubahan 1999→2000 sebesar +5.86 di luar [-2.74, 4.93]",False
+var87,7100,Sulawesi Utara,2001,92.5,perubahan,"perubahan 2000→2001 sebesar +8.64 di luar [-6.50, 5.41]",False
+var87,7500,Gorontalo,2002,60.42,perubahan,"perubahan 2001→2002 sebesar +6.79 di luar [-3.10, 6.66]",False
+var87,8100,Maluku,2002,100.0,perubahan,"perubahan 2001→2002 sebesar +23.19 di luar [-3.10, 6.66]",False
+var87,8200,Maluku Utara,2002,91.65,perubahan,"perubahan 2001→2002 sebesar +19.47 di luar [-3.10, 6.66]",False
+var87,9400,Papua,2002,100.0,perubahan + ke samping,"perubahan 2001→2002 sebesar +59.95 di luar [-3.10, 6.66]; di luar [21.61, 55.94] dibanding 32 tahun di provinsi ini",False
+var87,1100,Aceh,2003,84.31,perubahan,"perubahan 2002→2003 sebesar -15.07 di luar [-5.81, 5.80]",False
+var87,3100,DKI Jakarta,2003,96.27,ke samping,"di luar [96.97, 101.59] dibanding 32 tahun di provinsi ini",False
+var87,8100,Maluku,2003,63.79,perubahan,"perubahan 2002→2003 sebesar -36.21 di luar [-5.81, 5.80]",False
+var87,8200,Maluku Utara,2003,49.26,perubahan,"perubahan 2002→2003 sebesar -42.39 di luar [-5.81, 5.80]",False
+var87,9400,Papua,2003,37.89,perubahan,"perubahan 2002→2003 sebesar -62.11 di luar [-5.81, 5.80]",False
+var87,1100,Aceh,2006,81.57,perubahan,"perubahan 2004→2006 sebesar -5.88 di luar [-4.21, 8.22]",False
+var87,1800,Lampung,2006,64.1,perubahan,"perubahan 2004→2006 sebesar +9.51 di luar [-4.21, 8.22]",False
+var87,7500,Gorontalo,2006,64.54,perubahan,"perubahan 2004→2006 sebesar +8.49 di luar [-4.21, 8.22]",False
+var87,9400,Papua,2006,36.55,perubahan,"perubahan 2004→2006 sebesar -5.00 di luar [-4.21, 8.22]",False
+var87,1400,Riau,2008,67.44,perubahan,"perubahan 2007→2008 sebesar +7.78 di luar [-3.69, 7.59]",False
+var87,2100,Kepulauan Riau,2008,68.65,perubahan + ke samping,"perubahan 2007→2008 sebesar -9.98 di luar [-3.69, 7.59]; di luar [71.35, 112.61] dibanding 20 tahun di provinsi ini",False
+var87,5300,Nusa Tenggara Timur,2008,37.36,ke bawah,"di luar [37.37, 122.81] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,7600,Sulawesi Barat,2008,55.14,perubahan,"perubahan 2007→2008 sebesar +8.52 di luar [-3.69, 7.59]",False
+var87,9400,Papua,2008,37.07,ke bawah + perubahan,"di luar [37.37, 122.81] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2007→2008 sebesar -4.74 di luar [-3.69, 7.59]",False
+var87,1600,Sumatera Selatan,2009,76.6,perubahan,"perubahan 2008→2009 sebesar +4.65 di luar [-4.17, 3.51]",False
+var87,1700,Bengkulu,2009,77.07,perubahan,"perubahan 2008→2009 sebesar +5.58 di luar [-4.17, 3.51]",False
+var87,2100,Kepulauan Riau,2009,57.69,perubahan + ke samping,"perubahan 2008→2009 sebesar -10.96 di luar [-4.17, 3.51]; di luar [71.35, 112.61] dibanding 20 tahun di provinsi ini",False
+var87,8200,Maluku Utara,2009,57.99,perubahan,"perubahan 2008→2009 sebesar -5.53 di luar [-4.17, 3.51]",False
+var87,9100,Papua Barat,2009,57.67,perubahan,"perubahan 2008→2009 sebesar +6.46 di luar [-4.17, 3.51]",False
+var87,1400,Riau,2010,56.18,perubahan,"perubahan 2009→2010 sebesar -10.68 di luar [-5.94, 6.43]",False
+var87,2100,Kepulauan Riau,2010,86.14,perubahan,"perubahan 2009→2010 sebesar +28.45 di luar [-5.94, 6.43]",False
+var87,5200,Nusa Tenggara Barat,2010,81.52,perubahan,"perubahan 2009→2010 sebesar -6.03 di luar [-5.94, 6.43]",False
+var87,7600,Sulawesi Barat,2010,45.97,perubahan,"perubahan 2009→2010 sebesar -12.07 di luar [-5.94, 6.43]",False
+var87,9100,Papua Barat,2010,66.11,perubahan,"perubahan 2009→2010 sebesar +8.44 di luar [-5.94, 6.43]",False
+var87,9400,Papua,2010,32.83,ke bawah,"di luar [34.93, 124.61] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,9400,Papua,2011,31.79,ke bawah,"di luar [37.51, 126.82] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,9400,Papua,2012,32.33,ke bawah,"di luar [42.85, 126.58] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2013,59.45,perubahan,"perubahan 2012→2013 sebesar +9.09 di luar [-4.35, 8.72]",False
+var87,9400,Papua,2013,35.68,ke bawah,"di luar [44.97, 126.92] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,9400,Papua,2014,35.9,ke bawah,"di luar [52.93, 124.85] (IQR x 1.5) dibanding 33 provinsi tahun itu",False
+var87,9100,Papua Barat,2015,75.95,perubahan,"perubahan 2014→2015 sebesar +7.23 di luar [-3.30, 5.74]",False
+var87,9400,Papua,2015,39.16,ke bawah,"di luar [59.39, 120.10] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,7600,Sulawesi Barat,2016,75.58,perubahan,"perubahan 2015→2016 sebesar +7.15 di luar [-2.82, 5.18]",False
+var87,9400,Papua,2016,39.79,ke bawah,"di luar [63.93, 118.07] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2017,66.02,ke bawah,"di luar [68.79, 116.73] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,6200,Kalimantan Tengah,2017,81.75,perubahan,"perubahan 2016→2017 sebesar +4.82 di luar [-1.42, 4.35]",False
+var87,6500,Kalimantan Utara,2017,91.54,perubahan,"perubahan 2016→2017 sebesar +4.79 di luar [-1.42, 4.35]",False
+var87,8200,Maluku Utara,2017,84.33,perubahan,"perubahan 2016→2017 sebesar +5.31 di luar [-1.42, 4.35]",False
+var87,9400,Papua,2017,41.61,ke bawah,"di luar [68.79, 116.73] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2018,69.37,ke bawah,"di luar [75.60, 113.24] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,7600,Sulawesi Barat,2018,83.18,perubahan,"perubahan 2017→2018 sebesar +5.38 di luar [-2.59, 4.46]",False
+var87,9400,Papua,2018,43.51,ke bawah,"di luar [75.60, 113.24] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2019,70.07,ke bawah,"di luar [78.36, 111.60] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,9400,Papua,2019,44.49,ke bawah,"di luar [78.36, 111.60] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2020,74.05,ke bawah + perubahan,"di luar [79.65, 111.18] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2019→2020 sebesar +3.98 di luar [-1.94, 3.23]",False
+var87,9400,Papua,2020,43.14,ke bawah,"di luar [79.65, 111.18] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,2100,Kepulauan Riau,2021,98.46,perubahan,"perubahan 2020→2021 sebesar +2.61 di luar [-1.15, 1.96]",False
+var87,5300,Nusa Tenggara Timur,2021,81.12,perubahan,"perubahan 2020→2021 sebesar +7.07 di luar [-1.15, 1.96]",False
+var87,6200,Kalimantan Tengah,2021,83.52,perubahan,"perubahan 2020→2021 sebesar -2.21 di luar [-1.15, 1.96]",False
+var87,6500,Kalimantan Utara,2021,91.63,perubahan,"perubahan 2020→2021 sebesar -1.73 di luar [-1.15, 1.96]",False
+var87,7600,Sulawesi Barat,2021,91.75,perubahan,"perubahan 2020→2021 sebesar +3.95 di luar [-1.15, 1.96]",False
+var87,9100,Papua Barat,2021,81.08,perubahan,"perubahan 2020→2021 sebesar -2.01 di luar [-1.15, 1.96]",False
+var87,9400,Papua,2021,43.92,ke bawah,"di luar [80.86, 110.70] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2022,85.58,ke bawah + perubahan,"di luar [86.72, 107.25] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2021→2022 sebesar +4.46 di luar [-2.33, 4.06]",False
+var87,6200,Kalimantan Tengah,2022,85.36,ke bawah,"di luar [86.72, 107.25] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,9100,Papua Barat,2022,83.49,ke bawah,"di luar [86.72, 107.25] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,9400,Papua,2022,43.04,ke bawah,"di luar [86.72, 107.25] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,5300,Nusa Tenggara Timur,2023,87.81,ke bawah + perubahan,"di luar [89.09, 105.94] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2022→2023 sebesar +2.23 di luar [-0.70, 1.27]",False
+var87,6200,Kalimantan Tengah,2023,87.81,ke bawah + perubahan,"di luar [89.09, 105.94] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2022→2023 sebesar +2.45 di luar [-0.70, 1.27]",False
+var87,6500,Kalimantan Utara,2023,95.72,perubahan,"perubahan 2022→2023 sebesar +1.56 di luar [-0.70, 1.27]",False
+var87,7600,Sulawesi Barat,2023,94.67,perubahan,"perubahan 2022→2023 sebesar +1.82 di luar [-0.70, 1.27]",False
+var87,9100,Papua Barat,2023,83.2,ke bawah,"di luar [89.09, 105.94] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+var87,9400,Papua,2023,47.07,ke bawah + perubahan,"di luar [89.09, 105.94] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2022→2023 sebesar +4.03 di luar [-0.70, 1.27]",False
+var87,5300,Nusa Tenggara Timur,2024,91.01,perubahan,"perubahan 2023→2024 sebesar +3.20 di luar [-0.90, 1.67]",False
+var87,6100,Kalimantan Barat,2024,92.95,perubahan,"perubahan 2023→2024 sebesar +1.76 di luar [-0.90, 1.67]",False
+var87,8100,Maluku,2024,95.37,perubahan,"perubahan 2023→2024 sebesar +2.11 di luar [-0.90, 1.67]",False
+var87,8200,Maluku Utara,2024,94.27,perubahan,"perubahan 2023→2024 sebesar +2.69 di luar [-0.90, 1.67]",False
+var87,9100,Papua Barat,2024,82.31,ke bawah,"di luar [86.57, 107.57] (IQR x 1.5) dibanding 38 provinsi tahun itu",False
+var87,9400,Papua,2024,90.24,perubahan + ke samping,"perubahan 2023→2024 sebesar +43.17 di luar [-0.90, 1.67]; di luar [21.61, 55.94] dibanding 32 tahun di provinsi ini",False
+var87,9500,Papua Selatan,2024,67.05,ke bawah,"di luar [86.57, 107.57] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var87,9600,Papua Tengah,2024,35.27,ke bawah,"di luar [86.57, 107.57] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var87,9700,Papua Pegunungan,2024,14.53,ke bawah,"di luar [86.57, 107.57] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var87,6200,Kalimantan Tengah,2025,90.69,ke bawah,"di luar [91.16, 104.75] (IQR x 1.5) dibanding 38 provinsi tahun itu",False
+var87,9100,Papua Barat,2025,84.16,ke bawah,"di luar [91.16, 104.75] (IQR x 1.5) dibanding 38 provinsi tahun itu",False
+var87,9200,Papua Barat Daya,2025,94.09,perubahan,"perubahan 2024→2025 sebesar +6.23 di luar [-2.09, 3.62]",False
+var87,9400,Papua,2025,91.78,ke samping,"di luar [21.61, 55.94] dibanding 32 tahun di provinsi ini",False
+var87,9500,Papua Selatan,2025,73.62,ke bawah + perubahan,"di luar [91.16, 104.75] (IQR x 1.5) dibanding 38 provinsi tahun itu; perubahan 2024→2025 sebesar +6.57 di luar [-2.09, 3.62]",True
+var87,9600,Papua Tengah,2025,35.67,ke bawah,"di luar [91.16, 104.75] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var87,9700,Papua Pegunungan,2025,20.78,ke bawah + perubahan,"di luar [91.16, 104.75] (IQR x 1.5) dibanding 38 provinsi tahun itu; perubahan 2024→2025 sebesar +6.25 di luar [-2.09, 3.62]",True

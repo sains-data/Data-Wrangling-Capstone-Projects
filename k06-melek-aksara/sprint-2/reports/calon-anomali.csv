@@ -1,0 +1,134 @@
+seri_kode,wilayah_kode,nama_wilayah,periode,nilai,arah,alasan,berulang
+tabel:sdg4_amh_rinci,1600,Sumatera Selatan,2009,94.9,ke samping,"di luar [95.30, 100.79] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,2100,Kepulauan Riau,2009,95.51,ke samping,"di luar [96.25, 100.69] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,3400,DI Yogyakarta,2009,87.8,ke samping,"di luar [89.32, 98.65] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,3600,Banten,2009,89.46,ke samping,"di luar [94.78, 99.74] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,7200,Sulawesi Tengah,2009,87.02,ke samping,"di luar [92.87, 101.43] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,7400,Sulawesi Tenggara,2009,87.59,ke samping,"di luar [88.95, 98.71] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,9400,Papua,2009,70.29,ke bawah,"di luar [79.03, 107.47] (IQR x 1.5) dibanding 33 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,3400,DI Yogyakarta,2010,90.84,perubahan,"perubahan 2009→2010 sebesar +3.04 di luar [-1.54, 2.66]",False
+tabel:sdg4_amh_rinci,3500,Jawa Timur,2010,88.34,perubahan + ke samping,"perubahan 2009→2010 sebesar -7.61 di luar [-1.54, 2.66]; di luar [88.42, 96.26] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,3600,Banten,2010,96.2,perubahan,"perubahan 2009→2010 sebesar +6.74 di luar [-1.54, 2.66]",False
+tabel:sdg4_amh_rinci,7200,Sulawesi Tengah,2010,96.08,perubahan,"perubahan 2009→2010 sebesar +9.06 di luar [-1.54, 2.66]",False
+tabel:sdg4_amh_rinci,7300,Sulawesi Selatan,2010,87.75,perubahan + ke samping,"perubahan 2009→2010 sebesar -3.76 di luar [-1.54, 2.66]; di luar [89.31, 94.51] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,7400,Sulawesi Tenggara,2010,91.85,perubahan,"perubahan 2009→2010 sebesar +4.26 di luar [-1.54, 2.66]",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2010,88.48,perubahan + ke samping,"perubahan 2009→2010 sebesar -7.23 di luar [-1.54, 2.66]; di luar [89.94, 96.14] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,9400,Papua,2010,68.27,ke bawah + perubahan,"di luar [80.02, 107.34] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2009→2010 sebesar -2.02 di luar [-1.54, 2.66]",True
+tabel:sdg4_amh_rinci,1500,Jambi,2011,95.52,ke samping,"di luar [95.80, 99.56] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2011,83.24,perubahan,"perubahan 2010→2011 sebesar +2.19 di luar [-2.28, 1.59]",False
+tabel:sdg4_amh_rinci,7300,Sulawesi Selatan,2011,88.07,ke samping,"di luar [89.31, 94.51] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2011,87.61,ke samping,"di luar [89.94, 96.14] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,9100,Papua Barat,2011,92.41,perubahan,"perubahan 2010→2011 sebesar -2.71 di luar [-2.28, 1.59]",False
+tabel:sdg4_amh_rinci,9400,Papua,2011,64.08,ke bawah + perubahan,"di luar [80.91, 106.06] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2010→2011 sebesar -4.19 di luar [-2.28, 1.59]",True
+tabel:sdg4_amh_rinci,7300,Sulawesi Selatan,2012,88.73,ke samping,"di luar [89.31, 94.51] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2012,88.79,ke samping,"di luar [89.94, 96.14] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,9100,Papua Barat,2012,94.74,perubahan,"perubahan 2011→2012 sebesar +2.33 di luar [-0.37, 1.28]",False
+tabel:sdg4_amh_rinci,9400,Papua,2012,65.69,ke bawah + perubahan,"di luar [82.47, 105.56] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2011→2012 sebesar +1.61 di luar [-0.37, 1.28]",True
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2013,90.79,perubahan,"perubahan 2012→2013 sebesar +2.00 di luar [-0.28, 1.67]",False
+tabel:sdg4_amh_rinci,9400,Papua,2013,67.31,ke bawah,"di luar [82.28, 106.44] (IQR x 1.5) dibanding 33 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2014,86.96,perubahan,"perubahan 2013→2014 sebesar +2.29 di luar [0.35, 1.74]",False
+tabel:sdg4_amh_rinci,9400,Papua,2014,70.78,ke bawah + perubahan,"di luar [84.79, 106.63] (IQR x 1.5) dibanding 33 provinsi tahun itu; perubahan 2013→2014 sebesar +3.47 di luar [0.35, 1.74]",True
+tabel:sdg4_amh_rinci,5300,Nusa Tenggara Timur,2015,91.45,perubahan,"perubahan 2014→2015 sebesar +0.27 di luar [-0.07, 0.25]",False
+tabel:sdg4_amh_rinci,7200,Sulawesi Tengah,2015,97.34,perubahan,"perubahan 2014→2015 sebesar +0.26 di luar [-0.07, 0.25]",False
+tabel:sdg4_amh_rinci,7500,Gorontalo,2015,98.24,perubahan,"perubahan 2014→2015 sebesar +0.34 di luar [-0.07, 0.25]",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2015,92.64,perubahan,"perubahan 2014→2015 sebesar +0.37 di luar [-0.07, 0.25]",False
+tabel:sdg4_amh_rinci,9400,Papua,2015,70.83,ke bawah,"di luar [85.60, 106.31] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,9400,Papua,2016,71.02,ke bawah,"di luar [85.68, 106.63] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,9400,Papua,2017,75.8,ke bawah + perubahan,"di luar [87.36, 105.75] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2016→2017 sebesar +4.78 di luar [-0.76, 1.66]",True
+tabel:sdg4_amh_rinci,9400,Papua,2018,76.79,ke bawah + perubahan,"di luar [85.99, 106.55] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2017→2018 sebesar +0.99 di luar [-1.35, 0.87]",True
+tabel:sdg4_amh_rinci,5100,Bali,2019,94.53,perubahan,"perubahan 2018→2019 sebesar +1.55 di luar [-0.46, 0.95]",False
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2019,87.59,ke bawah,"di luar [88.14, 105.43] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg4_amh_rinci,5300,Nusa Tenggara Timur,2019,93.24,perubahan,"perubahan 2018→2019 sebesar +1.34 di luar [-0.46, 0.95]",False
+tabel:sdg4_amh_rinci,6500,Kalimantan Utara,2019,96.39,perubahan,"perubahan 2018→2019 sebesar +1.21 di luar [-0.46, 0.95]",False
+tabel:sdg4_amh_rinci,9400,Papua,2019,78.0,ke bawah + perubahan,"di luar [88.14, 105.43] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2018→2019 sebesar +1.21 di luar [-0.46, 0.95]",True
+tabel:sdg4_amh_rinci,3600,Banten,2020,97.88,perubahan,"perubahan 2019→2020 sebesar +0.26 di luar [-0.17, 0.26]",False
+tabel:sdg4_amh_rinci,5100,Bali,2020,94.8,perubahan,"perubahan 2019→2020 sebesar +0.27 di luar [-0.17, 0.26]",False
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2020,87.6,ke bawah,"di luar [88.74, 105.03] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg4_amh_rinci,6500,Kalimantan Utara,2020,96.66,perubahan,"perubahan 2019→2020 sebesar +0.27 di luar [-0.17, 0.26]",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2020,93.17,perubahan,"perubahan 2019→2020 sebesar -0.42 di luar [-0.17, 0.26]",False
+tabel:sdg4_amh_rinci,9100,Papua Barat,2020,97.52,perubahan,"perubahan 2019→2020 sebesar -0.20 di luar [-0.17, 0.26]",False
+tabel:sdg4_amh_rinci,9400,Papua,2020,77.9,ke bawah,"di luar [88.74, 105.03] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2021,87.39,ke bawah,"di luar [89.08, 104.74] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg4_amh_rinci,5300,Nusa Tenggara Timur,2021,93.85,perubahan,"perubahan 2020→2021 sebesar +0.54 di luar [-0.26, 0.24]",False
+tabel:sdg4_amh_rinci,9100,Papua Barat,2021,97.91,perubahan,"perubahan 2020→2021 sebesar +0.39 di luar [-0.26, 0.24]",False
+tabel:sdg4_amh_rinci,9400,Papua,2021,78.89,ke bawah + perubahan,"di luar [89.08, 104.74] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2020→2021 sebesar +0.99 di luar [-0.26, 0.24]",True
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2022,88.97,ke bawah + perubahan,"di luar [89.73, 104.44] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2021→2022 sebesar +1.58 di luar [-0.97, 1.46]",False
+tabel:sdg4_amh_rinci,9400,Papua,2022,81.19,ke bawah + perubahan,"di luar [89.73, 104.44] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2021→2022 sebesar +2.30 di luar [-0.97, 1.46]",True
+tabel:sdg4_amh_rinci,3400,DI Yogyakarta,2023,95.59,perubahan,"perubahan 2022→2023 sebesar +0.44 di luar [-0.20, 0.41]",False
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2023,89.11,ke bawah,"di luar [90.55, 104.01] (IQR x 1.5) dibanding 34 provinsi tahun itu",False
+tabel:sdg4_amh_rinci,5300,Nusa Tenggara Timur,2023,95.11,perubahan,"perubahan 2022→2023 sebesar +0.48 di luar [-0.20, 0.41]",False
+tabel:sdg4_amh_rinci,6100,Kalimantan Barat,2023,94.79,perubahan,"perubahan 2022→2023 sebesar +0.83 di luar [-0.20, 0.41]",False
+tabel:sdg4_amh_rinci,7300,Sulawesi Selatan,2023,93.83,perubahan,"perubahan 2022→2023 sebesar +0.52 di luar [-0.20, 0.41]",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2023,94.33,perubahan,"perubahan 2022→2023 sebesar +0.51 di luar [-0.20, 0.41]",False
+tabel:sdg4_amh_rinci,9400,Papua,2023,84.22,ke bawah + perubahan,"di luar [90.55, 104.01] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2022→2023 sebesar +3.03 di luar [-0.20, 0.41]",True
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2024,89.83,ke bawah + perubahan,"di luar [90.03, 104.01] (IQR x 1.5) dibanding 38 provinsi tahun itu; perubahan 2023→2024 sebesar +0.72 di luar [-0.36, 0.51]",False
+tabel:sdg4_amh_rinci,6500,Kalimantan Utara,2024,97.37,perubahan,"perubahan 2023→2024 sebesar -0.41 di luar [-0.36, 0.51]",False
+tabel:sdg4_amh_rinci,7600,Sulawesi Barat,2024,95.0,perubahan,"perubahan 2023→2024 sebesar +0.67 di luar [-0.36, 0.51]",False
+tabel:sdg4_amh_rinci,9400,Papua,2024,98.37,perubahan + ke samping,"perubahan 2023→2024 sebesar +14.15 di luar [-0.36, 0.51]; di luar [57.39, 91.79] dibanding 17 tahun di provinsi ini",True
+tabel:sdg4_amh_rinci,9600,Papua Tengah,2024,84.69,ke bawah,"di luar [90.03, 104.01] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,9700,Papua Pegunungan,2024,70.37,ke bawah,"di luar [90.03, 104.01] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,5200,Nusa Tenggara Barat,2025,91.07,ke bawah,"di luar [91.50, 103.42] (IQR x 1.5) dibanding 38 provinsi tahun itu",False
+tabel:sdg4_amh_rinci,7300,Sulawesi Selatan,2025,95.05,ke samping,"di luar [89.31, 94.51] dibanding 17 tahun di provinsi ini",False
+tabel:sdg4_amh_rinci,9400,Papua,2025,98.39,ke samping,"di luar [57.39, 91.79] dibanding 17 tahun di provinsi ini",True
+tabel:sdg4_amh_rinci,9600,Papua Tengah,2025,85.82,ke bawah,"di luar [91.50, 103.42] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+tabel:sdg4_amh_rinci,9700,Papua Pegunungan,2025,68.32,ke bawah + perubahan,"di luar [91.50, 103.42] (IQR x 1.5) dibanding 38 provinsi tahun itu; perubahan 2024→2025 sebesar -2.05 di luar [-1.07, 1.79]",True
+var1458,1400,Riau,2014,98.75,ke samping,"di luar [98.83, 99.42] dibanding 12 tahun di provinsi ini",False
+var1458,1600,Sumatera Selatan,2014,98.14,ke samping,"di luar [98.17, 99.10] dibanding 12 tahun di provinsi ini",False
+var1458,1700,Bengkulu,2014,97.52,ke samping,"di luar [97.60, 98.09] dibanding 12 tahun di provinsi ini",False
+var1458,3100,DKI Jakarta,2014,99.54,ke samping,"di luar [99.55, 99.81] dibanding 12 tahun di provinsi ini",False
+var1458,6400,Kalimantan Timur,2014,98.59,ke samping,"di luar [98.74, 99.11] dibanding 12 tahun di provinsi ini",False
+var1458,7100,Sulawesi Utara,2014,99.6,ke samping,"di luar [99.69, 99.86] dibanding 12 tahun di provinsi ini",False
+var1458,7500,Gorontalo,2014,97.9,ke samping,"di luar [98.10, 99.00] dibanding 12 tahun di provinsi ini",False
+var1458,8200,Maluku Utara,2014,98.36,ke samping,"di luar [98.51, 98.97] dibanding 12 tahun di provinsi ini",False
+var1458,9400,Papua,2014,70.78,ke bawah,"di luar [84.79, 106.63] (IQR x 1.5) dibanding 33 provinsi tahun itu",True
+var1458,5300,Nusa Tenggara Timur,2015,91.45,perubahan,"perubahan 2014→2015 sebesar +0.27 di luar [-0.07, 0.25]",False
+var1458,6400,Kalimantan Timur,2015,98.69,ke samping,"di luar [98.74, 99.11] dibanding 12 tahun di provinsi ini",False
+var1458,7100,Sulawesi Utara,2015,99.63,ke samping,"di luar [99.69, 99.86] dibanding 12 tahun di provinsi ini",False
+var1458,7200,Sulawesi Tengah,2015,97.34,perubahan,"perubahan 2014→2015 sebesar +0.26 di luar [-0.07, 0.25]",False
+var1458,7500,Gorontalo,2015,98.24,perubahan,"perubahan 2014→2015 sebesar +0.34 di luar [-0.07, 0.25]",False
+var1458,7600,Sulawesi Barat,2015,92.64,perubahan,"perubahan 2014→2015 sebesar +0.37 di luar [-0.07, 0.25]",False
+var1458,8200,Maluku Utara,2015,98.49,ke samping,"di luar [98.51, 98.97] dibanding 12 tahun di provinsi ini",False
+var1458,9400,Papua,2015,70.83,ke bawah,"di luar [85.60, 106.31] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,9400,Papua,2016,71.02,ke bawah,"di luar [85.68, 106.63] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,9400,Papua,2017,73.89,ke bawah + perubahan,"di luar [85.87, 106.55] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2016→2017 sebesar +2.87 di luar [-0.10, 0.27]",True
+var1458,7100,Sulawesi Utara,2018,99.87,ke samping,"di luar [99.69, 99.86] dibanding 12 tahun di provinsi ini",False
+var1458,9400,Papua,2018,76.79,ke bawah + perubahan,"di luar [85.99, 106.55] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2017→2018 sebesar +2.90 di luar [-0.16, 0.39]",True
+var1458,5100,Bali,2019,94.53,perubahan,"perubahan 2018→2019 sebesar +1.55 di luar [-0.46, 0.95]",False
+var1458,5200,Nusa Tenggara Barat,2019,87.59,ke bawah,"di luar [88.14, 105.43] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,5300,Nusa Tenggara Timur,2019,93.24,perubahan,"perubahan 2018→2019 sebesar +1.34 di luar [-0.46, 0.95]",False
+var1458,6500,Kalimantan Utara,2019,96.39,perubahan,"perubahan 2018→2019 sebesar +1.21 di luar [-0.46, 0.95]",False
+var1458,9400,Papua,2019,78.0,ke bawah + perubahan,"di luar [88.14, 105.43] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2018→2019 sebesar +1.21 di luar [-0.46, 0.95]",True
+var1458,3600,Banten,2020,97.88,perubahan,"perubahan 2019→2020 sebesar +0.26 di luar [-0.17, 0.26]",False
+var1458,5100,Bali,2020,94.8,perubahan,"perubahan 2019→2020 sebesar +0.27 di luar [-0.17, 0.26]",False
+var1458,5200,Nusa Tenggara Barat,2020,87.6,ke bawah,"di luar [88.74, 105.03] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,6500,Kalimantan Utara,2020,96.66,perubahan,"perubahan 2019→2020 sebesar +0.27 di luar [-0.17, 0.26]",False
+var1458,7600,Sulawesi Barat,2020,93.17,perubahan,"perubahan 2019→2020 sebesar -0.42 di luar [-0.17, 0.26]",False
+var1458,9100,Papua Barat,2020,97.52,perubahan,"perubahan 2019→2020 sebesar -0.20 di luar [-0.17, 0.26]",False
+var1458,9400,Papua,2020,77.9,ke bawah,"di luar [88.74, 105.03] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,5200,Nusa Tenggara Barat,2021,87.39,ke bawah,"di luar [89.08, 104.74] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,5300,Nusa Tenggara Timur,2021,93.85,perubahan,"perubahan 2020→2021 sebesar +0.54 di luar [-0.26, 0.24]",False
+var1458,9100,Papua Barat,2021,97.91,perubahan,"perubahan 2020→2021 sebesar +0.39 di luar [-0.26, 0.24]",False
+var1458,9400,Papua,2021,78.89,ke bawah + perubahan,"di luar [89.08, 104.74] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2020→2021 sebesar +0.99 di luar [-0.26, 0.24]",True
+var1458,5200,Nusa Tenggara Barat,2022,88.97,ke bawah + perubahan,"di luar [89.73, 104.44] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2021→2022 sebesar +1.58 di luar [-0.97, 1.46]",True
+var1458,9400,Papua,2022,81.19,ke bawah + perubahan,"di luar [89.73, 104.44] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2021→2022 sebesar +2.30 di luar [-0.97, 1.46]",True
+var1458,3400,DI Yogyakarta,2023,95.59,perubahan,"perubahan 2022→2023 sebesar +0.44 di luar [-0.20, 0.41]",False
+var1458,5200,Nusa Tenggara Barat,2023,89.11,ke bawah,"di luar [90.55, 104.01] (IQR x 1.5) dibanding 34 provinsi tahun itu",True
+var1458,5300,Nusa Tenggara Timur,2023,95.11,perubahan,"perubahan 2022→2023 sebesar +0.48 di luar [-0.20, 0.41]",False
+var1458,6100,Kalimantan Barat,2023,94.79,perubahan,"perubahan 2022→2023 sebesar +0.83 di luar [-0.20, 0.41]",False
+var1458,7300,Sulawesi Selatan,2023,93.83,perubahan,"perubahan 2022→2023 sebesar +0.52 di luar [-0.20, 0.41]",False
+var1458,7600,Sulawesi Barat,2023,94.33,perubahan,"perubahan 2022→2023 sebesar +0.51 di luar [-0.20, 0.41]",False
+var1458,9400,Papua,2023,84.22,ke bawah + perubahan,"di luar [90.55, 104.01] (IQR x 1.5) dibanding 34 provinsi tahun itu; perubahan 2022→2023 sebesar +3.03 di luar [-0.20, 0.41]",True
+var1458,5200,Nusa Tenggara Barat,2024,89.83,ke bawah + perubahan,"di luar [90.03, 104.01] (IQR x 1.5) dibanding 38 provinsi tahun itu; perubahan 2023→2024 sebesar +0.72 di luar [-0.36, 0.51]",True
+var1458,6500,Kalimantan Utara,2024,97.37,perubahan,"perubahan 2023→2024 sebesar -0.41 di luar [-0.36, 0.51]",False
+var1458,7600,Sulawesi Barat,2024,95.0,perubahan,"perubahan 2023→2024 sebesar +0.67 di luar [-0.36, 0.51]",False
+var1458,9400,Papua,2024,98.37,perubahan + ke samping,"perubahan 2023→2024 sebesar +14.15 di luar [-0.36, 0.51]; di luar [60.01, 95.11] dibanding 12 tahun di provinsi ini",True
+var1458,9600,Papua Tengah,2024,84.69,ke bawah,"di luar [90.03, 104.01] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var1458,9700,Papua Pegunungan,2024,70.37,ke bawah,"di luar [90.03, 104.01] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var1458,1100,Aceh,2025,98.92,ke samping,"di luar [97.32, 98.85] dibanding 12 tahun di provinsi ini",False
+var1458,1500,Jambi,2025,97.59,ke samping,"di luar [97.69, 98.43] dibanding 12 tahun di provinsi ini",False
+var1458,2100,Kepulauan Riau,2025,99.46,ke samping,"di luar [98.50, 99.39] dibanding 12 tahun di provinsi ini",False
+var1458,5200,Nusa Tenggara Barat,2025,91.07,ke bawah,"di luar [91.50, 103.42] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var1458,6300,Kalimantan Selatan,2025,97.82,ke samping,"di luar [98.03, 98.63] dibanding 12 tahun di provinsi ini",False
+var1458,9400,Papua,2025,98.39,ke samping,"di luar [60.01, 95.11] dibanding 12 tahun di provinsi ini",True
+var1458,9600,Papua Tengah,2025,85.82,ke bawah,"di luar [91.50, 103.42] (IQR x 1.5) dibanding 38 provinsi tahun itu",True
+var1458,9700,Papua Pegunungan,2025,68.32,ke bawah + perubahan,"di luar [91.50, 103.42] (IQR x 1.5) dibanding 38 provinsi tahun itu; perubahan 2024→2025 sebesar -2.05 di luar [-1.07, 1.79]",True

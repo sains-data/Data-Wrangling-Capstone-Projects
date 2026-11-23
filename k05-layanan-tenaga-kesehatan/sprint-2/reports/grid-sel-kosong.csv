@@ -1,0 +1,83 @@
+seri_kode,periode,wilayah_kode,nama_wilayah,tingkat,kategori,bukti
+var1402,2015,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2015,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2015,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2015,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2016,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2016,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2016,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2016,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2017,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2017,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2017,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2017,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2018,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2018,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2018,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2018,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2019,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2019,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2019,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2019,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2020,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2020,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2020,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2020,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2021,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2021,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2021,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2021,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2022,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2022,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2022,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2022,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1402,2023,9200,Papua Barat Daya,provinsi,batas_lama,Papua Barat masih diterbitkan dengan batas lama pada 2023; angka tidak dipecah
+var1402,2023,9500,Papua Selatan,provinsi,batas_lama,Papua masih diterbitkan dengan batas lama pada 2023; angka tidak dipecah
+var1402,2023,9600,Papua Tengah,provinsi,batas_lama,Papua masih diterbitkan dengan batas lama pada 2023; angka tidak dipecah
+var1402,2023,9700,Papua Pegunungan,provinsi,batas_lama,Papua masih diterbitkan dengan batas lama pada 2023; angka tidak dipecah
+var2279,2022,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var2279,2022,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var2279,2022,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var2279,2022,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2016,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2016,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2016,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2016,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2016,9999,Indonesia,nasional,missing,provinsi sudah ada dan penerbit tidak menyatakan angka itu tidak ada
+var1477 [profesi=dokter_umum],2017,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2017,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2017,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2017,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2017,9999,Indonesia,nasional,missing,provinsi sudah ada dan penerbit tidak menyatakan angka itu tidak ada
+var1477 [profesi=dokter_umum],2018,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2018,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2018,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=dokter_umum],2018,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2016,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2016,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2016,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2016,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2016,9999,Indonesia,nasional,missing,provinsi sudah ada dan penerbit tidak menyatakan angka itu tidak ada
+var1477 [profesi=perawat],2017,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2017,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2017,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2017,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2017,9999,Indonesia,nasional,missing,provinsi sudah ada dan penerbit tidak menyatakan angka itu tidak ada
+var1477 [profesi=perawat],2018,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2018,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2018,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=perawat],2018,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2016,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2016,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2016,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2016,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2016,9999,Indonesia,nasional,missing,provinsi sudah ada dan penerbit tidak menyatakan angka itu tidak ada
+var1477 [profesi=bidan],2017,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2017,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2017,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2017,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2017,9999,Indonesia,nasional,missing,provinsi sudah ada dan penerbit tidak menyatakan angka itu tidak ada
+var1477 [profesi=bidan],2018,9200,Papua Barat Daya,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2018,9500,Papua Selatan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2018,9600,Papua Tengah,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023
+var1477 [profesi=bidan],2018,9700,Papua Pegunungan,provinsi,belum_ada,provinsi dibentuk; data penuh mulai 2023

@@ -1,0 +1,5 @@
+seri_kode,OBS_STATUS,NOTE_INDICATOR,SOURCE,baris,periode_awal,periode_akhir
+SDG_0552_NOC_RT,(kosong),,LFS - National Labour Force Survey,4,2007,2023
+SDG_0552_NOC_RT,B,Break in series: Methodology revised,LFS - National Labour Force Survey,1,2008,2008
+SDG_T552_NOC_RT,(kosong),,LFS - National Labour Force Survey,12,2007,2023
+SDG_T552_NOC_RT,B,Break in series: Methodology revised,LFS - National Labour Force Survey,3,2008,2021
